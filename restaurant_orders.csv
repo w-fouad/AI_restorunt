@@ -1,0 +1,1516 @@
+order_id,order_date,order_hour,branch,channel,category,item,quantity,unit_price,total,delivery_minutes,rating
+R10001,2025-01-01,11,Downtown,Delivery,Sides,Hummus,5,3.5,17.5,43.0,3.0
+R10002,2025-01-01,19,Mall,Takeaway,Main,Falafel Wrap,4,4.5,18.0,,4.0
+R10003,2025-01-01,20,Downtown,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,
+R10004,2025-01-01,22,University,Delivery,Main,Beef Burger,2,8.0,16.0,28.0,5.0
+R10005,2025-01-02,11,Mall,Delivery,Drinks,Fresh Juice,3,3.0,9.0,29.0,4.0
+R10006,2025-01-02,17,Downtown,Delivery,Drinks,Soft Drink,2,1.5,3.0,34.0,5.0
+R10007,2025-01-02,19,Downtown,Takeaway,Dessert,Kunafa,6,4.5,27.0,,4.0
+R10008,2025-01-02,20,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10009,2025-01-02,21,Downtown,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10010,2025-01-02,22,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10011,2025-01-02,23,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10012,2025-01-03,10,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10013,2025-01-03,13,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R10014,2025-01-03,13,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10015,2025-01-03,14,University,Delivery,Main,Mixed Grill,2,16.0,32.0,31.0,5.0
+R10016,2025-01-03,15,Mall,Dine-in,Dessert,Kunafa,4,4.5,18.0,,5.0
+R10017,2025-01-03,18,Mall,Takeaway,Main,Grilled Chicken Plate,3,11.0,33.0,,3.0
+R10018,2025-01-03,18,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10019,2025-01-03,19,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,5.0
+R10020,2025-01-03,20,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R10021,2025-01-03,21,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10022,2025-01-03,21,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10023,2025-01-03,22,Mall,Dine-in,Main,Beef Burger,5,8.0,40.0,,4.0
+R10024,2025-01-03,22,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10025,2025-01-03,23,Mall,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,3.0
+R10026,2025-01-04,12,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10027,2025-01-04,14,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R10028,2025-01-04,18,Downtown,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10029,2025-01-04,19,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,
+R10030,2025-01-04,19,Downtown,Dine-in,Main,Mixed Grill,4,16.0,64.0,,5.0
+R10031,2025-01-04,20,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10032,2025-01-04,21,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,
+R10033,2025-01-05,12,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10034,2025-01-05,12,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10035,2025-01-05,13,University,Takeaway,Sides,Fattoush,2,4.0,8.0,,5.0
+R10036,2025-01-05,20,Downtown,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10037,2025-01-05,20,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,55.0,2.0
+R10038,2025-01-05,21,Mall,Takeaway,Drinks,Soft Drink,4,1.5,6.0,,5.0
+R10039,2025-01-05,21,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10040,2025-01-05,22,Mall,Dine-in,Main,Beef Burger,6,8.0,48.0,,4.0
+R10041,2025-01-06,12, mall,Delivery,Dessert,Ice Cream,1,3.0,3.0,55.0,3.0
+R10042,2025-01-06,13,Downtown,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10043,2025-01-06,14,University,Delivery,Dessert,Kunafa,2,4.5,9.0,38.0,2.0
+R10044,2025-01-06,16,Downtown,Dine-in,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10045,2025-01-06,17,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10046,2025-01-06,20,Mall,Dine-in,Sides,Fries,2,2.5,5.0,,4.0
+R10047,2025-01-06,20,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10048,2025-01-07,13,Downtown,Delivery,Drinks,Fresh Juice,1,3.0,3.0,39.0,4.0
+R10049,2025-01-07,19,Mall,Delivery,Main,Chicken Shawarma,3,6.5,19.5,30.0,3.0
+R10050,2025-01-08,12,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R10051,2025-01-08,19,Downtown,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,3.0
+R10052,2025-01-08,19,Downtown,Delivery,Main,Beef Burger,3,8.0,24.0,49.0,3.0
+R10053,2025-01-08,21,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10054,2025-01-09,14,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R10055,2025-01-09,17,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,25.0,3.0
+R10056,2025-01-09,18,Mall,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R10057,2025-01-09,19,Mall,Takeaway,Drinks,Coffee,2,2.0,4.0,,5.0
+R10058,2025-01-09,20,Downtown,Delivery,Dessert,Kunafa,2,4.5,9.0,50.0,2.0
+R10059,2025-01-10,13,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10060,2025-01-10,13,University,Delivery,Drinks,Coffee,2,2.0,4.0,53.0,3.0
+R10061,2025-01-10,13,Downtown,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10062,2025-01-10,14,Mall,Dine-in,Main,Mixed Grill,3,16.0,48.0,,4.0
+R10063,2025-01-10,17,Downtown,Dine-in,Dessert,Kunafa,4,4.5,18.0,,4.0
+R10064,2025-01-10,18,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10065,2025-01-10,19,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R10066,2025-01-10,19,Mall,Dine-in,Main,Falafel Wrap,5,4.5,22.5,,4.0
+R10067,2025-01-10,19,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,
+R10068,2025-01-10,19,Downtown,Delivery,Drinks,Coffee,3,2.0,6.0,44.0,4.0
+R10069,2025-01-10,20,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10070,2025-01-10,21,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10071,2025-01-10,23,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10072,2025-01-11,12,Downtown,Dine-in,Sides,Fries,6,2.5,15.0,,5.0
+R10073,2025-01-11,13,Mall,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,4.0
+R10074,2025-01-11,15,Downtown,Delivery,Drinks,Coffee,3,2.0,6.0,32.0,4.0
+R10075,2025-01-11,16,Mall,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10076,2025-01-11,17,Mall,Takeaway,Dessert,Kunafa,3,4.5,13.5,,5.0
+R10077,2025-01-11,17,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,5.0
+R10078,2025-01-11,18,Downtown,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10079,2025-01-11,19,Downtown,Delivery,Main,Chicken Shawarma,1,6.5,6.5,46.0,4.0
+R10080,2025-01-11,20,Mall,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10081,2025-01-11,21,Mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,5.0
+R10082,2025-01-11,22,Mall,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10083,2025-01-11,23,Mall,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10084,2025-01-12,12,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,
+R10085,2025-01-12,13,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10086,2025-01-12,18,University,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10087,2025-01-12,19,Downtown,Delivery,Sides,Fries,1,2.5,2.5,49.0,2.0
+R10088,2025-01-12,20,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,3.0
+R10089,2025-01-12,22,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,21.0,4.0
+R10090,2025-01-13,12,Mall,Delivery,Drinks,Fresh Juice,2,3.0,6.0,50.0,2.0
+R10091,2025-01-13,13,Mall,Takeaway,Main,Beef Burger,3,8.0,24.0,,5.0
+R10092,2025-01-13,15,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10093,2025-01-13,20,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,5.0
+R10094,2025-01-14,13,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10095,2025-01-14,15,Downtown,Delivery,Main,Mixed Grill,1,16.0,16.0,41.0,4.0
+R10096,2025-01-14,16,University,Takeaway,Sides,Hummus,1,3.5,3.5,,5.0
+R10097,2025-01-14,17,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10098,2025-01-14,19,Mall,Dine-in,Sides,Fries,2,2.5,5.0,,3.0
+R10099,2025-01-14,20,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10100,2025-01-14,20,Downtown,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10101,2025-01-14,23,Mall,Takeaway,Dessert,Kunafa,4,4.5,18.0,,4.0
+R10102,2025-01-14,23,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,
+R10103,2025-01-15,15,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10104,2025-01-15,16,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,
+R10105,2025-01-15,17,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,
+R10106,2025-01-15,19,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,54.0,3.0
+R10107,2025-01-15,19,University,Dine-in,Sides,Hummus,1,3.5,3.5,,
+R10108,2025-01-15,19,Downtown,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,
+R10109,2025-01-15,19,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10110,2025-01-15,20,Mall,Delivery,Main,Chicken Shawarma,2,6.5,13.0,57.0,1.0
+R10111,2025-01-15,21,University,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10112,2025-01-15,21,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10113,2025-01-16,12,Downtown,Dine-in,Main,Mixed Grill,3,16.0,48.0,,5.0
+R10114,2025-01-16,12,Downtown,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10115,2025-01-16,13,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,59.0,1.0
+R10116,2025-01-16,14,Mall,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,27.0,3.0
+R10117,2025-01-16,14,Mall,Dine-in,Main,Falafel Wrap,4,4.5,18.0,,3.0
+R10118,2025-01-16,15,Mall,Takeaway,Sides,Hummus,3,3.5,10.5,,4.0
+R10119,2025-01-16,16,Mall,Delivery,Main,Mixed Grill,4,16.0,64.0,26.0,5.0
+R10120,2025-01-16,17,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10121,2025-01-16,18,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,5.0
+R10122,2025-01-16,19,Mall,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,3.0
+R10123,2025-01-16,19,University,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10124,2025-01-16,20,Downtown,Delivery,Dessert,Kunafa,3,4.5,13.5,42.0,3.0
+R10125,2025-01-17,11,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R10126,2025-01-17,14,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,
+R10127,2025-01-17,15,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,3.0
+R10128,2025-01-17,16,Downtown,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10129,2025-01-17,17,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10130,2025-01-17,18,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10131,2025-01-17,19,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10132,2025-01-17,19,Mall,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,3.0
+R10133,2025-01-17,20,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,
+R10134,2025-01-17,20,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10135,2025-01-17,21,Downtown,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R10136,2025-01-17,21,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,59.0,3.0
+R10137,2025-01-17,21,Mall,Dine-in,Drinks,Soft Drink,6,1.5,9.0,,4.0
+R10138,2025-01-17,21,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10139,2025-01-17,23,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10140,2025-01-18,13, university,Takeaway,Sides,Fries,2,2.5,5.0,,4.0
+R10141,2025-01-18,13,Downtown,Delivery,Drinks,Soft Drink,1,1.5,1.5,43.0,3.0
+R10142,2025-01-18,15,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10143,2025-01-18,15,University,Delivery,Sides,Fries,1,2.5,2.5,47.0,2.0
+R10144,2025-01-18,16,Downtown,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,
+R10145,2025-01-18,17,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10146,2025-01-18,20,Downtown,Delivery,Main,Beef Burger,1,8.0,8.0,43.0,4.0
+R10147,2025-01-18,20,University,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,5.0
+R10148,2025-01-18,23,Downtown,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,4.0
+R10149,2025-01-19,18,Mall,Dine-in,Sides,Fries,6,2.5,15.0,,5.0
+R10150,2025-01-19,19,Mall,Delivery,Main,Falafel Wrap,1,4.5,4.5,50.0,4.0
+R10151,2025-01-19,19,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,42.0,4.0
+R10152,2025-01-19,20,Downtown,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,49.0,2.0
+R10153,2025-01-19,21,Downtown,Delivery,Main,Mixed Grill,2,16.0,32.0,51.0,1.0
+R10154,2025-01-20,13,Mall,Dine-in,Sides,Fries,5,2.5,12.5,,4.0
+R10155,2025-01-20,13,Downtown,Dine-in,Main,Falafel Wrap,4,4.5,18.0,,5.0
+R10156,2025-01-20,16,MALL,Dine-in,Sides,Hummus,1,3.5,3.5,,5.0
+R10157,2025-01-20,18,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,
+R10158,2025-01-20,21,Downtown,Dine-in,Sides,Fries,3,2.5,7.5,,5.0
+R10159,2025-01-20,23,Downtown,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10160,2025-01-21,14,Mall,Takeaway,Sides,Fattoush,2,4.0,8.0,,4.0
+R10161,2025-01-21,18,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,
+R10162,2025-01-21,19,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10163,2025-01-21,19,Mall,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,4.0
+R10164,2025-01-21,20,Mall,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10165,2025-01-21,21,University,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,36.0,5.0
+R10166,2025-01-21,21,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10167,2025-01-22,11,University,Takeaway,Main,Beef Burger,2,8.0,16.0,,
+R10168,2025-01-22,15,Mall,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,
+R10169,2025-01-22,16,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10170,2025-01-22,18,Mall,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10171,2025-01-22,19,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10172,2025-01-22,19,University,Delivery,Drinks,Fresh Juice,1,3.0,3.0,50.0,
+R10173,2025-01-22,22,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10174,2025-01-22,23,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,
+R10175,2025-01-23,14,University,Delivery,Main,Beef Burger,2,8.0,16.0,45.0,3.0
+R10176,2025-01-23,21,University,Delivery,Main,Falafel Wrap,2,4.5,9.0,39.0,3.0
+R10177,2025-01-24,12,Downtown,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10178,2025-01-24,13,University,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10179,2025-01-24,14,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10180,2025-01-24,14,Downtown,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10181,2025-01-24,15, university,Takeaway,Main,Beef Burger,1,8.0,8.0,,3.0
+R10182,2025-01-24,15,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,41.0,3.0
+R10183,2025-01-24,16,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10184,2025-01-24,18,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10185,2025-01-24,19,University,Delivery,Drinks,Soft Drink,3,1.5,4.5,50.0,2.0
+R10186,2025-01-24,20,Downtown,Takeaway,Main,Mixed Grill,4,16.0,64.0,,3.0
+R10187,2025-01-24,22,Mall,Delivery,Drinks,Coffee,2,2.0,4.0,34.0,4.0
+R10188,2025-01-24,22,Mall,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10189,2025-01-25,11,Mall,Delivery,Main,Mixed Grill,1,16.0,16.0,30.0,5.0
+R10190,2025-01-25,12,University,Delivery,Dessert,Kunafa,3,4.5,13.5,28.0,4.0
+R10191,2025-01-25,12,Mall,Delivery,Drinks,Coffee,3,2.0,6.0,36.0,4.0
+R10192,2025-01-25,12,Downtown,Delivery,Main,Mixed Grill,2,16.0,32.0,43.0,3.0
+R10193,2025-01-25,13,Downtown,Takeaway,Drinks,Soft Drink,4,1.5,6.0,,5.0
+R10194,2025-01-25,13,Downtown,Dine-in,Drinks,Coffee,4,2.0,8.0,,5.0
+R10195,2025-01-25,14,Downtown,Takeaway,Main,Mixed Grill,3,16.0,48.0,,5.0
+R10196,2025-01-25,19,Downtown,Takeaway,Main,Mixed Grill,2,16.0,32.0,,3.0
+R10197,2025-01-25,19,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10198,2025-01-26,10,Downtown,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R10199,2025-01-26,14,Mall,Takeaway,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10200,2025-01-26,16,Downtown,Takeaway,Main,Mixed Grill,2,16.0,32.0,,
+R10201,2025-01-26,18,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,25.0,3.0
+R10202,2025-01-26,20,Mall,Takeaway,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10203,2025-01-26,23,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,31.0,4.0
+R10204,2025-01-27,12,Mall,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10205,2025-01-27,12,Downtown,Delivery,Dessert,Kunafa,1,4.5,4.5,31.0,3.0
+R10206,2025-01-27,17,Downtown,Takeaway,Main,Chicken Shawarma,5,6.5,32.5,,4.0
+R10207,2025-01-27,17,Downtown,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10208,2025-01-27,19,Mall,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10209,2025-01-27,19,Mall,Delivery,Drinks,Soft Drink,2,1.5,3.0,33.0,5.0
+R10210,2025-01-27,20,University,Dine-in,Dessert,Kunafa,1,4.5,4.5,,4.0
+R10211,2025-01-27,20,Downtown,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10212,2025-01-27,21,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10213,2025-01-27,22,Downtown,Dine-in,Main,Chicken Shawarma,5,6.5,32.5,,4.0
+R10214,2025-01-27,23,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R10215,2025-01-28,14,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10216,2025-01-28,16,Downtown,Dine-in,Drinks,Coffee,4,2.0,8.0,,
+R10217,2025-01-28,18,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R10218,2025-01-28,19,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10219,2025-01-28,21,Downtown,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10220,2025-01-29,13,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,
+R10221,2025-01-29,14,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10222,2025-01-29,16,Mall,Delivery,Dessert,Kunafa,2,4.5,9.0,53.0,2.0
+R10223,2025-01-29,17,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10224,2025-01-29,19,Mall,Delivery,Drinks,Coffee,4,2.0,8.0,53.0,2.0
+R10225,2025-01-30,12,Downtown,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,
+R10226,2025-01-30,13,Mall,Delivery,Sides,Fries,1,2.5,2.5,48.0,3.0
+R10227,2025-01-30,14,University,Takeaway,Sides,Hummus,1,3.5,3.5,,4.0
+R10228,2025-01-30,14,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10229,2025-01-30,16,University,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10230,2025-01-30,19,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,
+R10231,2025-01-30,20,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10232,2025-01-30,20,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10233,2025-01-30,21,Mall,Delivery,Drinks,Coffee,6,2.0,12.0,62.0,1.0
+R10234,2025-01-30,22,Downtown,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10235,2025-01-31,14,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10236,2025-01-31,15,Downtown,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,5.0
+R10237,2025-01-31,18,Downtown,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R10238,2025-01-31,19,Downtown,Delivery,Main,Falafel Wrap,1,4.5,4.5,40.0,5.0
+R10239,2025-01-31,19,Mall,Takeaway,Sides,Fries,2,2.5,5.0,,4.0
+R10240,2025-01-31,19,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10241,2025-01-31,21,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10242,2025-01-31,21,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,45.0,4.0
+R10243,2025-01-31,22,Mall,Takeaway,Main,Mixed Grill,3,16.0,48.0,,5.0
+R10244,2025-02-01,12,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10245,2025-02-01,13,Downtown,Dine-in,Sides,Fattoush,1,4.0,4.0,,5.0
+R10246,2025-02-01,15,Mall,Dine-in,Main,Mixed Grill,4,16.0,64.0,,5.0
+R10247,2025-02-01,18,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,4.0
+R10248,2025-02-01,18,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10249,2025-02-01,20,Downtown,Delivery,Main,Beef Burger,1,8.0,8.0,43.0,3.0
+R10250,2025-02-02,13,Downtown,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R10251,2025-02-02,14,University,Takeaway,Sides,Fattoush,2,4.0,8.0,,5.0
+R10252,2025-02-02,20,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10253,2025-02-02,22,Downtown,Delivery,Dessert,Ice Cream,1,3.0,3.0,34.0,3.0
+R10254,2025-02-03,13,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10255,2025-02-03,14,Mall,Dine-in,Sides,Fries,5,2.5,12.5,,4.0
+R10256,2025-02-03,16, mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,4.0
+R10257,2025-02-03,17,Mall,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R10258,2025-02-03,21,University,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10259,2025-02-03,21,University,Delivery,Main,Beef Burger,1,8.0,8.0,40.0,3.0
+R10260,2025-02-04,12,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,
+R10261,2025-02-04,13,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10262,2025-02-04,13,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10263,2025-02-04,15,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10264,2025-02-04,18,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,30.0,4.0
+R10265,2025-02-04,19,Downtown,Delivery,Drinks,Fresh Juice,4,3.0,12.0,50.0,3.0
+R10266,2025-02-04,20,University,Dine-in,Sides,Fries,1,2.5,2.5,,3.0
+R10267,2025-02-04,20,Mall,Dine-in,Main,Mixed Grill,3,16.0,48.0,,5.0
+R10268,2025-02-04,22,Downtown,Takeaway,Sides,Fries,6,2.5,15.0,,5.0
+R10269,2025-02-05,12,DOWNTOWN,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,46.0,3.0
+R10270,2025-02-05,14,Downtown,Takeaway,Main,Falafel Wrap,4,4.5,18.0,,3.0
+R10271,2025-02-05,20,Downtown,Delivery,Drinks,Fresh Juice,1,3.0,3.0,50.0,3.0
+R10272,2025-02-06,11,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R10273,2025-02-06,13,Mall,Delivery,Sides,Fries,2,2.5,5.0,23.0,5.0
+R10274,2025-02-06,20,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,3.0
+R10275,2025-02-06,21,Downtown,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10276,2025-02-07,10,Downtown,Delivery,Main,Falafel Wrap,1,4.5,4.5,33.0,4.0
+R10277,2025-02-07,13,Mall,Delivery,Dessert,Kunafa,3,4.5,13.5,24.0,5.0
+R10278,2025-02-07,14,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10279,2025-02-07,16,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10280,2025-02-07,17,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R10281,2025-02-07,17,Downtown,Takeaway,Sides,Hummus,1,3.5,3.5,,4.0
+R10282,2025-02-07,17,Mall,Takeaway,Drinks,Coffee,3,2.0,6.0,,4.0
+R10283,2025-02-07,18,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10284,2025-02-07,18,Downtown,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10285,2025-02-07,20,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,30.0,5.0
+R10286,2025-02-07,21,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R10287,2025-02-07,21,Downtown,Delivery,Drinks,Coffee,2,2.0,4.0,48.0,3.0
+R10288,2025-02-08,12,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R10289,2025-02-08,13,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10290,2025-02-08,13,University,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10291,2025-02-08,14,Downtown,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10292,2025-02-08,14,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10293,2025-02-08,15,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R10294,2025-02-08,17,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10295,2025-02-08,18,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10296,2025-02-08,20,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10297,2025-02-08,20,Mall,Delivery,Sides,Hummus,2,3.5,7.0,19.0,5.0
+R10298,2025-02-08,20,University,Delivery,Sides,Fries,2,2.5,5.0,48.0,3.0
+R10299,2025-02-08,22,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,32.0,4.0
+R10300,2025-02-09,12,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10301,2025-02-09,13,Mall,Delivery,Dessert,Ice Cream,2,3.0,6.0,62.0,1.0
+R10302,2025-02-09,13,Downtown,Dine-in,Dessert,Kunafa,3,4.5,13.5,,5.0
+R10303,2025-02-09,13,Mall,Delivery,Dessert,Kunafa,2,4.5,9.0,36.0,4.0
+R10304,2025-02-09,17,Downtown,Delivery,Drinks,Coffee,3,2.0,6.0,37.0,3.0
+R10305,2025-02-09,17,Mall,Dine-in,Sides,Fattoush,4,4.0,16.0,,5.0
+R10306,2025-02-09,19,University,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10307,2025-02-09,20,Mall,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10308,2025-02-09,21,Mall,Delivery,Dessert,Kunafa,2,4.5,9.0,35.0,3.0
+R10309,2025-02-10,11, university,Delivery,Dessert,Kunafa,1,4.5,4.5,46.0,3.0
+R10310,2025-02-10,13,Mall,Takeaway,Sides,Fattoush,4,4.0,16.0,,5.0
+R10311,2025-02-10,14,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10312,2025-02-10,17,Downtown,Dine-in,Sides,Fattoush,3,4.0,12.0,,5.0
+R10313,2025-02-10,21,Mall,Dine-in,Sides,Fries,6,2.5,15.0,,4.0
+R10314,2025-02-11,12,Downtown,Dine-in,Dessert,Kunafa,1,4.5,4.5,,
+R10315,2025-02-11,12,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10316,2025-02-11,13,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10317,2025-02-11,13,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10318,2025-02-11,13,Downtown,Delivery,Main,Chicken Shawarma,1,6.5,6.5,59.0,
+R10319,2025-02-11,17,University,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10320,2025-02-11,19,Downtown,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10321,2025-02-11,20,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,3.0
+R10322,2025-02-11,21,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10323,2025-02-11,21,University,Delivery,Sides,Fattoush,2,4.0,8.0,61.0,2.0
+R10324,2025-02-11,21,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10325,2025-02-11,22,Mall,Takeaway,Sides,Fattoush,4,4.0,16.0,,3.0
+R10326,2025-02-11,23,Mall,Dine-in,Dessert,Kunafa,6,4.5,27.0,,5.0
+R10327,2025-02-12,12,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R10328,2025-02-12,12,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10329,2025-02-12,13,Downtown,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10330,2025-02-12,13,Mall,Delivery,Main,Falafel Wrap,3,4.5,13.5,37.0,3.0
+R10331,2025-02-12,13,Mall,Delivery,Drinks,Coffee,2,2.0,4.0,32.0,4.0
+R10332,2025-02-12,14,Downtown,Takeaway,Dessert,Kunafa,5,4.5,22.5,,5.0
+R10333,2025-02-12,14,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,3.0
+R10334,2025-02-12,14,Mall,Dine-in,Drinks,Fresh Juice,5,3.0,15.0,,4.0
+R10335,2025-02-12,18,Mall,Dine-in,Dessert,Kunafa,4,4.5,18.0,,5.0
+R10336,2025-02-12,18,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10337,2025-02-12,18,Downtown,Delivery,Sides,Fattoush,2,4.0,8.0,41.0,3.0
+R10338,2025-02-12,20,Downtown,Delivery,Sides,Hummus,2,3.5,7.0,32.0,3.0
+R10339,2025-02-12,20,Mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,
+R10340,2025-02-12,21,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10341,2025-02-13,16,Downtown,Dine-in,Drinks,Coffee,5,2.0,10.0,,5.0
+R10342,2025-02-13,19,Mall,Delivery,Drinks,Coffee,2,2.0,4.0,38.0,4.0
+R10343,2025-02-13,21,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10344,2025-02-13,23, downtown,Delivery,Drinks,Soft Drink,3,1.5,4.5,38.0,
+R10345,2025-02-14,19,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10346,2025-02-14,20,Mall,Delivery,Drinks,Coffee,1,2.0,2.0,48.0,3.0
+R10347,2025-02-14,21,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10348,2025-02-14,23,University,Delivery,Drinks,Coffee,3,2.0,6.0,14.0,5.0
+R10349,2025-02-15,11,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,3.0
+R10350,2025-02-15,16,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10351,2025-02-15,19,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10352,2025-02-15,19,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10353,2025-02-15,21,Downtown,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10354,2025-02-16,10,University,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10355,2025-02-16,13,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10356,2025-02-16,14,Mall,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10357,2025-02-16,14,Downtown,Delivery,Main,Mixed Grill,3,16.0,48.0,43.0,4.0
+R10358,2025-02-16,14,Mall,Takeaway,Main,Grilled Chicken Plate,4,11.0,44.0,,5.0
+R10359,2025-02-16,17,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,3.0
+R10360,2025-02-16,18,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10361,2025-02-16,20,University,Delivery,Drinks,Coffee,2,2.0,4.0,41.0,3.0
+R10362,2025-02-16,23,Downtown,Delivery,Dessert,Ice Cream,2,3.0,6.0,55.0,3.0
+R10363,2025-02-17,13,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,30.0,4.0
+R10364,2025-02-17,18,Mall,Delivery,Main,Falafel Wrap,2,4.5,9.0,30.0,
+R10365,2025-02-17,20,University,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,3.0
+R10366,2025-02-18,13,University,Delivery,Dessert,Kunafa,3,4.5,13.5,16.0,4.0
+R10367,2025-02-18,13,Downtown,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10368,2025-02-18,20,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10369,2025-02-18,20,Mall,Takeaway,Drinks,Coffee,6,2.0,12.0,,4.0
+R10370,2025-02-18,22,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R10371,2025-02-18,23,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10372,2025-02-18,23,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10373,2025-02-19,15,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,5.0
+R10374,2025-02-19,18,University,Delivery,Main,Chicken Shawarma,1,6.5,6.5,36.0,4.0
+R10375,2025-02-19,19,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,
+R10376,2025-02-19,21,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10377,2025-02-19,22,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10378,2025-02-19,22,Downtown,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10379,2025-02-19,23,Mall,Delivery,Drinks,Coffee,2,2.0,4.0,35.0,5.0
+R10380,2025-02-20,12,University,Delivery,Drinks,Soft Drink,1,1.5,1.5,42.0,3.0
+R10381,2025-02-20,13,University,Delivery,Main,Mixed Grill,2,16.0,32.0,40.0,3.0
+R10382,2025-02-20,13,Mall,Dine-in,Main,Beef Burger,4,8.0,32.0,,3.0
+R10383,2025-02-20,18,University,Delivery,Main,Beef Burger,3,8.0,24.0,39.0,2.0
+R10384,2025-02-20,20,University,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10385,2025-02-21,10,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R10386,2025-02-21,10,Downtown,Delivery,Main,Beef Burger,7,8.0,56.0,41.0,3.0
+R10387,2025-02-21,12,Mall,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10388,2025-02-21,12,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10389,2025-02-21,13,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,
+R10390,2025-02-21,13,Mall,Delivery,Sides,Hummus,3,3.5,10.5,43.0,2.0
+R10391,2025-02-21,14,Downtown,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,4.0
+R10392,2025-02-21,15,Downtown,Dine-in,Sides,Fattoush,4,4.0,16.0,,4.0
+R10393,2025-02-21,17,University,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,
+R10393,2025-02-21,17,University,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,
+R10394,2025-02-21,20,Downtown,Takeaway,Drinks,Coffee,3,2.0,6.0,,4.0
+R10395,2025-02-21,20,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10396,2025-02-21,21,Downtown,Takeaway,Main,Beef Burger,2,8.0,16.0,,5.0
+R10397,2025-02-21,21,Downtown,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10398,2025-02-21,23,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10399,2025-02-21,23,Downtown,Dine-in,Drinks,Soft Drink,5,1.5,7.5,,4.0
+R10400,2025-02-22,10,University,Delivery,Drinks,Fresh Juice,1,3.0,3.0,47.0,2.0
+R10401,2025-02-22,11,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10402,2025-02-22,11,Downtown,Delivery,Drinks,Soft Drink,4,1.5,6.0,25.0,
+R10403,2025-02-22,12,Downtown,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,29.0,4.0
+R10404,2025-02-22,13,Downtown,Takeaway,Main,Beef Burger,1,8.0,8.0,,5.0
+R10405,2025-02-22,14,Downtown,Dine-in,Dessert,Kunafa,4,4.5,18.0,,5.0
+R10406,2025-02-22,18,University,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10407,2025-02-22,20,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10408,2025-02-22,20,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10409,2025-02-22,22,Downtown,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10410,2025-02-22,22,Downtown,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10411,2025-02-23,12,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10412,2025-02-23,14,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,32.0,4.0
+R10413,2025-02-23,14,Mall,Dine-in,Sides,Fries,5,2.5,12.5,,4.0
+R10414,2025-02-23,16,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10415,2025-02-23,19,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R10416,2025-02-23,20,Mall,Dine-in,Dessert,Kunafa,2,4.5,9.0,,5.0
+R10417,2025-02-23,20,University,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10417,2025-02-23,20,University,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10418,2025-02-23,22,Mall,Dine-in,Sides,Fattoush,3,4.0,12.0,,
+R10419,2025-02-24,13,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10420,2025-02-24,18,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R10421,2025-02-24,20,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10422,2025-02-24,20,University,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R10423,2025-02-24,22,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10424,2025-02-24,22,Mall,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10425,2025-02-24,23,Downtown,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10426,2025-02-25,13,Downtown,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R10427,2025-02-25,14,Downtown,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R10427,2025-02-25,14,Downtown,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R10428,2025-02-25,18,Mall,Delivery,Dessert,Ice Cream,2,3.0,6.0,51.0,
+R10429,2025-02-25,19,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10430,2025-02-25,19,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,3.0
+R10431,2025-02-25,20,University,Takeaway,Sides,Hummus,1,3.5,3.5,,
+R10432,2025-02-25,22,University,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,5.0
+R10433,2025-02-25,22,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,46.0,2.0
+R10434,2025-02-26,13,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10435,2025-02-26,14,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,
+R10436,2025-02-26,15,University,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10437,2025-02-26,19,Downtown,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10438,2025-02-26,20,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R10439,2025-02-26,21,Downtown,Delivery,Drinks,Fresh Juice,6,3.0,18.0,45.0,2.0
+R10440,2025-02-26,22,University,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10441,2025-02-27,10,Mall,Dine-in,Main,Grilled Chicken Plate,4,11.0,44.0,,4.0
+R10442,2025-02-27,14,Downtown,Dine-in,Main,Grilled Chicken Plate,5,11.0,55.0,,5.0
+R10443,2025-02-27,14,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10444,2025-02-27,15,Mall,Delivery,Sides,Fattoush,1,4.0,4.0,45.0,3.0
+R10445,2025-02-27,17,Downtown,Delivery,Dessert,Ice Cream,1,3.0,3.0,59.0,2.0
+R10446,2025-02-27,19,Downtown,Delivery,Dessert,Ice Cream,1,3.0,3.0,57.0,2.0
+R10447,2025-02-27,19,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,29.0,5.0
+R10448,2025-02-27,22,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R10449,2025-02-27,23,Downtown,Delivery,Drinks,Coffee,1,2.0,2.0,38.0,3.0
+R10450,2025-02-28,11,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10451,2025-02-28,12,Mall,Dine-in,Sides,Hummus,3,3.5,10.5,,
+R10452,2025-02-28,13,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R10453,2025-02-28,13,Mall,Takeaway,Sides,Hummus,2,3.5,7.0,,5.0
+R10454,2025-02-28,13,Downtown,Delivery,Main,Mixed Grill,5,16.0,80.0,25.0,5.0
+R10455,2025-02-28,17,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10456,2025-02-28,18,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10457,2025-02-28,20,Downtown,Delivery,Drinks,Soft Drink,1,1.5,1.5,43.0,3.0
+R10458,2025-02-28,20,University,Takeaway,Sides,Hummus,2,3.5,7.0,,5.0
+R10459,2025-02-28,22,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,34.0,4.0
+R10460,2025-03-01,13,University,Delivery,Main,Mixed Grill,2,16.0,32.0,45.0,4.0
+R10461,2025-03-01,14,Mall,Takeaway,Sides,Fries,4,2.5,10.0,,3.0
+R10462,2025-03-01,15,University,Takeaway,Sides,Fries,3,2.5,7.5,,4.0
+R10463,2025-03-01,15,Mall,Dine-in,Main,Mixed Grill,4,16.0,64.0,,4.0
+R10464,2025-03-01,19,Mall,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10465,2025-03-01,19,Downtown,Delivery,Drinks,Soft Drink,6,1.5,9.0,60.0,
+R10466,2025-03-01,19,Downtown,Delivery,Sides,Fattoush,2,4.0,8.0,51.0,2.0
+R10467,2025-03-01,19,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10468,2025-03-02,13,Mall,Delivery,Main,Falafel Wrap,3,4.5,13.5,18.0,5.0
+R10469,2025-03-02,13,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10470,2025-03-02,13,Downtown,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10471,2025-03-02,19,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,18.0,
+R10472,2025-03-03,13,University,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,
+R10472,2025-03-03,13,University,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,
+R10473,2025-03-03,13,Downtown,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,3.0
+R10474,2025-03-03,15,Mall,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R10475,2025-03-03,18,University,Delivery,Main,Mixed Grill,2,16.0,32.0,20.0,4.0
+R10476,2025-03-03,20,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10477,2025-03-03,20,University,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10478,2025-03-03,21,Downtown,Delivery,Drinks,Soft Drink,1,1.5,1.5,59.0,2.0
+R10479,2025-03-04,12,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10480,2025-03-04,13,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10481,2025-03-04,19,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10482,2025-03-04,19,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R10483,2025-03-04,20,Downtown,Delivery,Dessert,Kunafa,3,4.5,13.5,36.0,3.0
+R10484,2025-03-04,22,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,40.0,4.0
+R10485,2025-03-05,12,MALL,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,5.0
+R10486,2025-03-05,13,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,21.0,4.0
+R10487,2025-03-05,15,Mall,Delivery,Dessert,Kunafa,2,4.5,9.0,42.0,3.0
+R10488,2025-03-05,19,Downtown,Delivery,Dessert,Kunafa,2,4.5,9.0,57.0,1.0
+R10489,2025-03-05,20,Downtown,Delivery,Main,Falafel Wrap,3,4.5,13.5,39.0,
+R10490,2025-03-05,20,Downtown,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,3.0
+R10491,2025-03-06,12,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,5.0
+R10492,2025-03-06,12,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10493,2025-03-06,12,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10494,2025-03-06,12,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10495,2025-03-06,13,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10496,2025-03-06,14,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10497,2025-03-06,16,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10498,2025-03-06,18,University,Delivery,Dessert,Ice Cream,3,3.0,9.0,39.0,4.0
+R10499,2025-03-06,19,Downtown,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,3.0
+R10500,2025-03-06,19,Downtown,Takeaway,Main,Beef Burger,3,8.0,24.0,,3.0
+R10501,2025-03-06,20,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10502,2025-03-06,20,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R10503,2025-03-06,21,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10504,2025-03-06,21,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10505,2025-03-06,22,Downtown,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10506,2025-03-06,22,Downtown,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10507,2025-03-07,12,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10508,2025-03-07,13,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10509,2025-03-07,17,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10510,2025-03-07,19,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,
+R10511,2025-03-07,21,Downtown,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10512,2025-03-08,12,Mall,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,21.0,3.0
+R10513,2025-03-08,13,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10514,2025-03-08,13,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,36.0,4.0
+R10515,2025-03-08,13,University,Takeaway,Drinks,Coffee,2,2.0,4.0,,5.0
+R10516,2025-03-08,14,Downtown,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R10517,2025-03-08,14,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R10518,2025-03-08,17,University,Dine-in,Dessert,Kunafa,1,4.5,4.5,,5.0
+R10519,2025-03-08,18,Mall,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R10520,2025-03-08,18,Mall,Takeaway,Main,Mixed Grill,4,16.0,64.0,,5.0
+R10521,2025-03-08,19,Mall,Delivery,Main,Falafel Wrap,7,4.5,31.5,47.0,4.0
+R10522,2025-03-08,19,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R10523,2025-03-08,19,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,
+R10524,2025-03-08,20,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,44.0,
+R10525,2025-03-08,20,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10526,2025-03-08,21,Downtown,Takeaway,Drinks,Coffee,4,2.0,8.0,,5.0
+R10527,2025-03-08,21,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10528,2025-03-08,23,Mall,Dine-in,Drinks,Soft Drink,5,1.5,7.5,,5.0
+R10529,2025-03-09,14,University,Takeaway,Drinks,Coffee,2,2.0,4.0,,
+R10530,2025-03-09,19,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,55.0,2.0
+R10531,2025-03-09,19,Mall,Delivery,Dessert,Ice Cream,5,3.0,15.0,33.0,4.0
+R10532,2025-03-09,20,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10533,2025-03-09,20,DOWNTOWN,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10534,2025-03-09,21,Mall,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R10535,2025-03-09,22,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10536,2025-03-09,23,Mall,Delivery,Sides,Hummus,2,3.5,7.0,32.0,4.0
+R10537,2025-03-10,14,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,3.0
+R10538,2025-03-10,15,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10539,2025-03-10,19,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,3.0
+R10540,2025-03-10,20,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,5.0
+R10541,2025-03-10,21,Downtown,Delivery,Main,Mixed Grill,3,16.0,48.0,47.0,3.0
+R10542,2025-03-10,21,Mall,Delivery,Sides,Fries,3,2.5,7.5,42.0,3.0
+R10543,2025-03-10,22,Mall,Delivery,Dessert,Kunafa,3,4.5,13.5,30.0,4.0
+R10544,2025-03-11,11,Mall,Dine-in,Sides,Fries,4,2.5,10.0,,4.0
+R10545,2025-03-11,13,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,
+R10546,2025-03-11,17,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10547,2025-03-11,17,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R10548,2025-03-11,19,University,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10548,2025-03-11,19,University,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10549,2025-03-11,19,Downtown,Dine-in,Sides,Fattoush,5,4.0,20.0,,4.0
+R10550,2025-03-11,20,Mall,Dine-in,Dessert,Kunafa,5,4.5,22.5,,3.0
+R10551,2025-03-11,21,Downtown,Delivery,Drinks,Coffee,4,2.0,8.0,50.0,3.0
+R10552,2025-03-11,22,University,Delivery,Main,Beef Burger,1,8.0,8.0,32.0,4.0
+R10553,2025-03-12,10,Downtown,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10554,2025-03-12,13,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R10555,2025-03-12,14,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10556,2025-03-12,19,University,Delivery,Dessert,Kunafa,2,4.5,9.0,41.0,
+R10557,2025-03-12,21,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10558,2025-03-12,22,Mall,Delivery,Main,Beef Burger,2,8.0,16.0,49.0,3.0
+R10559,2025-03-13,12,Downtown,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10560,2025-03-13,13,University,Delivery,Sides,Fattoush,2,4.0,8.0,65.0,1.0
+R10561,2025-03-13,14,University,Delivery,Main,Beef Burger,2,8.0,16.0,29.0,3.0
+R10562,2025-03-13,18,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10563,2025-03-13,19,Downtown,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10564,2025-03-13,19,Mall,Takeaway,Main,Falafel Wrap,5,4.5,22.5,,4.0
+R10565,2025-03-13,21,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10566,2025-03-13,22,Mall,Takeaway,Main,Mixed Grill,5,16.0,80.0,,5.0
+R10567,2025-03-13,23,Downtown,Delivery,Drinks,Coffee,2,2.0,4.0,45.0,4.0
+R10568,2025-03-14,12,Mall,Dine-in,Sides,Hummus,3,3.5,10.5,,3.0
+R10569,2025-03-14,13,University,Takeaway,Sides,Fries,1,2.5,2.5,,
+R10570,2025-03-14,13,Downtown,Delivery,Drinks,Soft Drink,2,1.5,3.0,36.0,3.0
+R10571,2025-03-14,13,Downtown,Delivery,Sides,Fries,4,2.5,10.0,33.0,4.0
+R10572,2025-03-14,16,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10573,2025-03-14,18,Downtown,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,
+R10574,2025-03-14,18,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10575,2025-03-14,19,Mall,Takeaway,Sides,Fries,2,2.5,5.0,,4.0
+R10576,2025-03-14,21,University,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10577,2025-03-14,22,Mall,Takeaway,Main,Falafel Wrap,5,4.5,22.5,,5.0
+R10578,2025-03-15,11,Downtown,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10579,2025-03-15,11,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,3.0
+R10580,2025-03-15,12,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,47.0,4.0
+R10581,2025-03-15,13,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,3.0
+R10582,2025-03-15,13,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10583,2025-03-15,15,Mall,Takeaway,Sides,Hummus,1,3.5,3.5,,3.0
+R10584,2025-03-15,19,University,Delivery,Main,Mixed Grill,1,16.0,16.0,41.0,4.0
+R10585,2025-03-15,19,Downtown,Takeaway,Main,Beef Burger,1,8.0,8.0,,
+R10586,2025-03-15,19,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10587,2025-03-15,20,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10588,2025-03-15,21,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,
+R10589,2025-03-16,13,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10590,2025-03-16,13,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R10591,2025-03-16,14,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,
+R10592,2025-03-16,15,University,Takeaway,Dessert,Kunafa,1,4.5,4.5,,5.0
+R10593,2025-03-16,20,University,Delivery,Main,Beef Burger,2,8.0,16.0,36.0,4.0
+R10594,2025-03-17,11,University,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,41.0,
+R10595,2025-03-17,12,Downtown,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10596,2025-03-17,13,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,3.0
+R10597,2025-03-17,13,Downtown,Delivery,Sides,Hummus,2,3.5,7.0,21.0,4.0
+R10598,2025-03-17,13,Downtown,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,31.0,4.0
+R10599,2025-03-17,13,University,Delivery,Main,Falafel Wrap,2,4.5,9.0,46.0,3.0
+R10600,2025-03-17,14,Mall,Takeaway,Sides,Hummus,3,3.5,10.5,,4.0
+R10601,2025-03-17,15,University,Delivery,Drinks,Coffee,2,2.0,4.0,27.0,
+R10602,2025-03-17,19,Downtown,Dine-in,Sides,Fries,3,2.5,7.5,,4.0
+R10603,2025-03-17,20,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R10604,2025-03-17,21,Mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,3.0
+R10605,2025-03-17,23,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10606,2025-03-18,12,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10607,2025-03-18,23,Mall,Delivery,Main,Falafel Wrap,6,4.5,27.0,33.0,3.0
+R10608,2025-03-19,13,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10609,2025-03-19,17,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10610,2025-03-19,18,Downtown,Delivery,Main,Chicken Shawarma,6,6.5,39.0,55.0,2.0
+R10611,2025-03-19,18,Mall,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,35.0,3.0
+R10612,2025-03-19,18,Downtown,Delivery,Drinks,Soft Drink,1,1.5,1.5,23.0,4.0
+R10613,2025-03-19,21,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10614,2025-03-20,11,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10615,2025-03-20,12,Mall,Takeaway,Main,Mixed Grill,3,16.0,48.0,,4.0
+R10616,2025-03-20,13,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R10617,2025-03-20,13,Downtown,Dine-in,Dessert,Kunafa,1,4.5,4.5,,4.0
+R10618,2025-03-20,18,Downtown,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,
+R10619,2025-03-20,18,University,Dine-in,Dessert,Kunafa,3,4.5,13.5,,5.0
+R10620,2025-03-20,18,Mall,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R10621,2025-03-20,19,Downtown,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R10622,2025-03-20,20,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10623,2025-03-20,21,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10624,2025-03-21,17,Mall,Delivery,Sides,Fattoush,3,4.0,12.0,27.0,5.0
+R10625,2025-03-21,20,Mall,Dine-in,Sides,Hummus,5,3.5,17.5,,4.0
+R10626,2025-03-21,21,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10627,2025-03-21,21,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10628,2025-03-21,21,Downtown,Dine-in,Sides,Fries,3,2.5,7.5,,5.0
+R10629,2025-03-21,21,University,Takeaway,Sides,Fries,3,2.5,7.5,,4.0
+R10630,2025-03-21,21,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10631,2025-03-21,22,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10632,2025-03-22,14,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,3.0
+R10633,2025-03-22,14,Mall,Dine-in,Sides,Fries,4,2.5,10.0,,
+R10634,2025-03-22,14,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10635,2025-03-22,19,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,3.0
+R10636,2025-03-22,20,Downtown,Delivery,Drinks,Fresh Juice,2,3.0,6.0,35.0,4.0
+R10637,2025-03-22,20,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,59.0,3.0
+R10638,2025-03-22,20,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10639,2025-03-22,21,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10639,2025-03-22,21,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10640,2025-03-22,21,Mall,Delivery,Main,Falafel Wrap,3,4.5,13.5,13.0,4.0
+R10641,2025-03-23,12,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,5.0
+R10642,2025-03-23,13,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,5.0
+R10643,2025-03-23,19,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,49.0,
+R10644,2025-03-23,19,Mall,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10645,2025-03-23,19,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10646,2025-03-23,19,University,Delivery,Drinks,Soft Drink,3,1.5,4.5,65.0,1.0
+R10647,2025-03-23,21,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R10648,2025-03-23,21,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,
+R10649,2025-03-23,22,Mall,Takeaway,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R10650,2025-03-24,11,University,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,
+R10651,2025-03-24,14,University,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R10652,2025-03-24,20,Downtown,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10653,2025-03-24,21,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10654,2025-03-24,22,Mall,Dine-in,Main,Grilled Chicken Plate,4,11.0,44.0,,4.0
+R10655,2025-03-25,12,University,Takeaway,Main,Mixed Grill,3,16.0,48.0,,4.0
+R10656,2025-03-25,12,Mall,Takeaway,Sides,Fattoush,2,4.0,8.0,,5.0
+R10657,2025-03-25,13,Downtown,Delivery,Drinks,Coffee,4,2.0,8.0,29.0,4.0
+R10658,2025-03-25,13,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,5.0
+R10659,2025-03-25,13,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,
+R10660,2025-03-25,14,Downtown,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10661,2025-03-25,19,Downtown,Delivery,Main,Chicken Shawarma,1,6.5,6.5,44.0,2.0
+R10662,2025-03-25,20,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10663,2025-03-25,20,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10664,2025-03-25,20,University,Delivery,Sides,Fattoush,4,4.0,16.0,59.0,2.0
+R10665,2025-03-26,12,University,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10666,2025-03-26,17,Mall,Takeaway,Main,Beef Burger,1,8.0,8.0,,
+R10667,2025-03-26,17, mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10668,2025-03-26,18,Downtown,Dine-in,Main,Falafel Wrap,5,4.5,22.5,,4.0
+R10669,2025-03-26,20,Downtown,Takeaway,Sides,Fries,2,2.5,5.0,,4.0
+R10670,2025-03-26,20,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,
+R10671,2025-03-26,20,University,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10672,2025-03-27,13,Mall,Delivery,Main,Beef Burger,2,8.0,16.0,42.0,3.0
+R10673,2025-03-27,13,University,Delivery,Sides,Fattoush,1,4.0,4.0,42.0,4.0
+R10674,2025-03-27,18,Mall,Takeaway,Drinks,Fresh Juice,5,3.0,15.0,,4.0
+R10675,2025-03-27,23,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10676,2025-03-28,15,Downtown,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10677,2025-03-28,19,Downtown,Dine-in,Drinks,Soft Drink,6,1.5,9.0,,5.0
+R10678,2025-03-28,19,Downtown,Delivery,Sides,Fries,5,2.5,12.5,50.0,
+R10679,2025-03-28,21,University,Takeaway,Sides,Hummus,2,3.5,7.0,,3.0
+R10680,2025-03-29,12,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,39.0,2.0
+R10681,2025-03-29,12,UNIVERSITY,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R10682,2025-03-29,14,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,3.0
+R10683,2025-03-29,15,University,Delivery,Main,Chicken Shawarma,3,6.5,19.5,34.0,4.0
+R10684,2025-03-29,15,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10685,2025-03-29,19,Downtown,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10686,2025-03-29,20,University,Takeaway,Dessert,Kunafa,3,4.5,13.5,,4.0
+R10687,2025-03-29,20,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10688,2025-03-29,21,Downtown,Delivery,Main,Falafel Wrap,7,4.5,31.5,50.0,3.0
+R10689,2025-03-29,22,University,Takeaway,Sides,Hummus,2,3.5,7.0,,4.0
+R10690,2025-03-30,11,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10691,2025-03-30,15,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10692,2025-03-30,15,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,
+R10693,2025-03-30,19,Mall,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,3.0
+R10694,2025-03-30,20,Downtown,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10695,2025-03-30,21,Mall,Takeaway,Drinks,Soft Drink,6,1.5,9.0,,4.0
+R10696,2025-03-30,22,Downtown,Dine-in,Sides,Fries,3,2.5,7.5,,5.0
+R10697,2025-03-31,13,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10698,2025-03-31,13,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10699,2025-03-31,14,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,3.0
+R10700,2025-03-31,14,Downtown,Delivery,Drinks,Fresh Juice,2,3.0,6.0,30.0,5.0
+R10701,2025-03-31,16,Mall,Takeaway,Sides,Hummus,3,3.5,10.5,,5.0
+R10702,2025-03-31,19,Downtown,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10703,2025-03-31,20,University,Delivery,Drinks,Coffee,1,2.0,2.0,54.0,2.0
+R10704,2025-03-31,20,Mall,Takeaway,Main,Mixed Grill,5,16.0,80.0,,5.0
+R10705,2025-03-31,20,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10706,2025-03-31,20,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10707,2025-03-31,20,University,Delivery,Main,Beef Burger,1,8.0,8.0,41.0,4.0
+R10708,2025-03-31,20,Mall,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10709,2025-03-31,22,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10710,2025-03-31,22,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,5.0
+R10711,2025-04-01,12,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,5.0
+R10712,2025-04-01,14,Downtown,Dine-in,Drinks,Coffee,1,2.0,2.0,,3.0
+R10713,2025-04-01,17,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,
+R10713,2025-04-01,17,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,
+R10714,2025-04-02,10,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10715,2025-04-02,12,University,Delivery,Main,Beef Burger,2,8.0,16.0,43.0,3.0
+R10716,2025-04-02,13,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,44.0,3.0
+R10717,2025-04-02,13,Mall,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,24.0,4.0
+R10718,2025-04-02,14,University,Delivery,Main,Beef Burger,3,8.0,24.0,33.0,3.0
+R10718,2025-04-02,14,University,Delivery,Main,Beef Burger,3,8.0,24.0,33.0,3.0
+R10719,2025-04-02,18,Downtown,Takeaway,Main,Beef Burger,1,8.0,8.0,,
+R10720,2025-04-02,21,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10721,2025-04-02,22,Mall,Delivery,Drinks,Fresh Juice,5,3.0,15.0,41.0,3.0
+R10722,2025-04-03,13,Mall,Dine-in,Sides,Fries,4,2.5,10.0,,
+R10723,2025-04-03,14,Downtown,Takeaway,Sides,Fattoush,2,4.0,8.0,,4.0
+R10724,2025-04-03,19,Mall,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10725,2025-04-03,19,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10726,2025-04-03,21,University,Delivery,Drinks,Coffee,2,2.0,4.0,45.0,3.0
+R10727,2025-04-03,23,University,Takeaway,Sides,Fries,1,2.5,2.5,,5.0
+R10728,2025-04-04,11,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R10729,2025-04-04,11,Mall,Takeaway,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R10730,2025-04-04,13,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R10731,2025-04-04,13,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10732,2025-04-04,13,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,4.0
+R10733,2025-04-04,14,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R10734,2025-04-04,14,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10735,2025-04-04,16,Mall,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10736,2025-04-04,16,Downtown,Takeaway,Drinks,Soft Drink,4,1.5,6.0,,5.0
+R10737,2025-04-04,17, university,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10738,2025-04-04,17,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10739,2025-04-04,19,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R10740,2025-04-04,23,University,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,39.0,3.0
+R10741,2025-04-05,10,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,52.0,3.0
+R10742,2025-04-05,12,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10743,2025-04-05,12,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10744,2025-04-05,13,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R10745,2025-04-05,13, university,Delivery,Sides,Fattoush,3,4.0,12.0,33.0,
+R10746,2025-04-05,14,Downtown,Takeaway,Sides,Fries,3,2.5,7.5,,4.0
+R10747,2025-04-05,14,Mall,Takeaway,Main,Beef Burger,3,8.0,24.0,,4.0
+R10748,2025-04-05,16,University,Delivery,Main,Falafel Wrap,2,4.5,9.0,30.0,4.0
+R10749,2025-04-05,18,Mall,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R10750,2025-04-05,19,Mall,Dine-in,Sides,Fries,4,2.5,10.0,,5.0
+R10751,2025-04-05,21,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,
+R10752,2025-04-05,23,Downtown,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R10753,2025-04-06,12,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10754,2025-04-06,13,Downtown,Takeaway,Main,Mixed Grill,3,16.0,48.0,,5.0
+R10755,2025-04-06,14,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R10756,2025-04-06,15,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R10757,2025-04-06,20,Mall,Dine-in,Sides,Fries,2,2.5,5.0,,4.0
+R10758,2025-04-07,12,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10759,2025-04-07,15,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R10760,2025-04-07,17,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,32.0,3.0
+R10761,2025-04-07,18,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R10762,2025-04-07,18,Downtown,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10763,2025-04-07,19,Downtown,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,
+R10764,2025-04-07,22,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R10765,2025-04-08,14,University,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10766,2025-04-08,15,Downtown,Delivery,Sides,Hummus,1,3.5,3.5,33.0,4.0
+R10767,2025-04-08,15,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10768,2025-04-08,17,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,41.0,3.0
+R10769,2025-04-08,20,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,5.0
+R10770,2025-04-08,20,University,Delivery,Drinks,Fresh Juice,1,3.0,3.0,43.0,4.0
+R10771,2025-04-09,17,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,3.0
+R10772,2025-04-09,18,Mall,Takeaway,Dessert,Kunafa,3,4.5,13.5,,5.0
+R10773,2025-04-09,18,University,Dine-in,Sides,Fries,2,2.5,5.0,,
+R10774,2025-04-09,18,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,5.0
+R10775,2025-04-09,22,University,Takeaway,Sides,Fattoush,2,4.0,8.0,,
+R10776,2025-04-10,13,Downtown,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10777,2025-04-10,14,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10778,2025-04-10,16,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,33.0,5.0
+R10779,2025-04-10,19,UNIVERSITY,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10780,2025-04-10,19,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10781,2025-04-10,20,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10782,2025-04-10,20,Mall,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10783,2025-04-10,22,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10784,2025-04-11,14,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10785,2025-04-11,15,Downtown,Dine-in,Drinks,Fresh Juice,6,3.0,18.0,,4.0
+R10786,2025-04-11,17,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10787,2025-04-11,17,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10788,2025-04-11,19,Mall,Delivery,Main,Mixed Grill,2,16.0,32.0,32.0,4.0
+R10789,2025-04-11,20,University,Delivery,Main,Mixed Grill,3,16.0,48.0,57.0,1.0
+R10790,2025-04-11,20,Downtown,Delivery,Main,Falafel Wrap,1,4.5,4.5,29.0,5.0
+R10791,2025-04-11,21,University,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,48.0,3.0
+R10792,2025-04-11,22,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10793,2025-04-12,11,Downtown,Delivery,Drinks,Fresh Juice,2,3.0,6.0,52.0,2.0
+R10794,2025-04-12,12,University,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R10795,2025-04-12,13,University,Delivery,Sides,Hummus,2,3.5,7.0,46.0,3.0
+R10796,2025-04-12,14,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R10797,2025-04-12,15,University,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10798,2025-04-12,17,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R10799,2025-04-12,18,Downtown,Dine-in,Main,Beef Burger,4,8.0,32.0,,5.0
+R10800,2025-04-12,18,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,3.0
+R10801,2025-04-12,18,University,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,
+R10802,2025-04-12,19,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R10803,2025-04-12,20,Downtown,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R10804,2025-04-12,21,Downtown,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10805,2025-04-12,22,Mall,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10806,2025-04-12,22,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10807,2025-04-13,11,Mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,5.0
+R10808,2025-04-13,16,Downtown,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10809,2025-04-13,20,Downtown,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R10810,2025-04-13,20,Downtown,Delivery,Main,Grilled Chicken Plate,5,11.0,55.0,48.0,
+R10811,2025-04-13,20,Mall,Dine-in,Main,Beef Burger,4,8.0,32.0,,5.0
+R10812,2025-04-13,21,Mall,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,3.0
+R10813,2025-04-14,13,DOWNTOWN,Delivery,Dessert,Ice Cream,2,3.0,6.0,37.0,4.0
+R10814,2025-04-14,17,University,Takeaway,Main,Beef Burger,2,8.0,16.0,,5.0
+R10815,2025-04-14,20,Downtown,Delivery,Dessert,Kunafa,1,4.5,4.5,24.0,4.0
+R10816,2025-04-14,20,University,Delivery,Sides,Fries,2,2.5,5.0,51.0,3.0
+R10817,2025-04-14,20,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10818,2025-04-14,23,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,5.0
+R10819,2025-04-15,13,Downtown,Dine-in,Drinks,Coffee,4,2.0,8.0,,4.0
+R10820,2025-04-15,13,University,Delivery,Drinks,Soft Drink,3,1.5,4.5,31.0,5.0
+R10821,2025-04-15,13,Downtown,Delivery,Sides,Fries,1,2.5,2.5,26.0,4.0
+R10822,2025-04-15,15,Mall,Dine-in,Main,Beef Burger,4,8.0,32.0,,5.0
+R10823,2025-04-15,18,Downtown,Delivery,Drinks,Coffee,1,2.0,2.0,24.0,3.0
+R10824,2025-04-15,20,Mall,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,46.0,4.0
+R10825,2025-04-15,20,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10826,2025-04-15,21,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R10827,2025-04-15,22,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,14.0,4.0
+R10828,2025-04-16,17,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10829,2025-04-16,19,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10830,2025-04-16,20,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,4.0
+R10831,2025-04-16,21,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10832,2025-04-16,23,Mall,Delivery,Drinks,Coffee,1,2.0,2.0,30.0,4.0
+R10833,2025-04-17,12,Downtown,Delivery,Dessert,Kunafa,2,4.5,9.0,43.0,3.0
+R10834,2025-04-17,13,Downtown,Delivery,Drinks,Fresh Juice,4,3.0,12.0,25.0,5.0
+R10835,2025-04-17,13,Downtown,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10836,2025-04-17,13,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10836,2025-04-17,13,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10837,2025-04-17,13,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10838,2025-04-17,13,Mall,Delivery,Sides,Hummus,3,3.5,10.5,25.0,4.0
+R10839,2025-04-17,14,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10840,2025-04-17,15,Mall,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10841,2025-04-17,19,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10842,2025-04-17,19,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10843,2025-04-17,20,University,Delivery,Main,Falafel Wrap,2,4.5,9.0,40.0,3.0
+R10844,2025-04-17,20,Mall,Takeaway,Main,Beef Burger,2,8.0,16.0,,
+R10845,2025-04-17,21,University,Delivery,Main,Beef Burger,2,8.0,16.0,42.0,4.0
+R10846,2025-04-17,23,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10847,2025-04-18,13,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10848,2025-04-18,13,Downtown,Dine-in,Drinks,Soft Drink,5,1.5,7.5,,
+R10849,2025-04-18,17,Downtown,Dine-in,Main,Mixed Grill,4,16.0,64.0,,5.0
+R10850,2025-04-18,19,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10851,2025-04-18,19,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10852,2025-04-18,19,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R10853,2025-04-18,19,Downtown,Delivery,Drinks,Soft Drink,4,1.5,6.0,49.0,
+R10854,2025-04-18,19,University,Delivery,Sides,Hummus,3,3.5,10.5,34.0,4.0
+R10855,2025-04-18,20,University,Takeaway,Sides,Hummus,1,3.5,3.5,,5.0
+R10856,2025-04-18,20,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10857,2025-04-18,22,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10858,2025-04-19,12,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R10859,2025-04-19,12,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,44.0,3.0
+R10860,2025-04-19,14,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,12.0,5.0
+R10861,2025-04-19,14,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,3.0
+R10862,2025-04-19,14,Mall,Takeaway,Sides,Fattoush,3,4.0,12.0,,5.0
+R10863,2025-04-19,14,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10864,2025-04-19,14,Downtown,Dine-in,Main,Beef Burger,3,8.0,24.0,,3.0
+R10865,2025-04-19,18,Mall,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R10866,2025-04-19,19,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10867,2025-04-19,20,Mall,Delivery,Drinks,Soft Drink,1,1.5,1.5,62.0,3.0
+R10868,2025-04-19,20,University,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R10869,2025-04-19,20,Downtown,Delivery,Main,Beef Burger,3,8.0,24.0,70.0,2.0
+R10870,2025-04-19,21,Downtown,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10871,2025-04-20,12,Mall,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10872,2025-04-20,12,University,Delivery,Main,Chicken Shawarma,1,6.5,6.5,41.0,3.0
+R10873,2025-04-20,12,University,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,
+R10874,2025-04-20,13,Downtown,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R10875,2025-04-20,13,Downtown,Dine-in,Sides,Hummus,3,3.5,10.5,,4.0
+R10876,2025-04-20,13,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10877,2025-04-20,14,Mall,Dine-in,Sides,Hummus,2,3.5,7.0,,5.0
+R10878,2025-04-20,14,Mall,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R10879,2025-04-20,16,Downtown,Delivery,Sides,Hummus,4,3.5,14.0,41.0,4.0
+R10880,2025-04-20,17,University,Delivery,Sides,Hummus,1,3.5,3.5,43.0,2.0
+R10881,2025-04-20,17,University,Takeaway,Sides,Hummus,1,3.5,3.5,,4.0
+R10882,2025-04-20,19,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10883,2025-04-20,22,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,34.0,4.0
+R10884,2025-04-21,12,Mall,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10885,2025-04-21,14,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,3.0
+R10886,2025-04-21,14,MALL,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R10887,2025-04-21,14, downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,22.0,4.0
+R10888,2025-04-21,18,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R10889,2025-04-21,21,Downtown,Takeaway,Sides,Fattoush,2,4.0,8.0,,4.0
+R10890,2025-04-21,21,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R10891,2025-04-21,22,Downtown,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10892,2025-04-22,11,Mall,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,5.0
+R10893,2025-04-22,13,University,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R10894,2025-04-22,13,Mall,Takeaway,Main,Chicken Shawarma,6,6.5,39.0,,4.0
+R10895,2025-04-22,15,Mall,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R10896,2025-04-22,20,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10897,2025-04-23,12,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,46.0,2.0
+R10898,2025-04-23,14,Downtown,Takeaway,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R10899,2025-04-23,14,Mall,Delivery,Sides,Fattoush,2,4.0,8.0,33.0,4.0
+R10900,2025-04-23,18,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R10901,2025-04-23,22,Downtown,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R10902,2025-04-24,13,Mall,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R10903,2025-04-24,19,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10904,2025-04-24,20,Mall,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10905,2025-04-24,22,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,
+R10906,2025-04-24,22,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,5.0
+R10907,2025-04-25,11,University,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R10908,2025-04-25,12,Mall,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10909,2025-04-25,12,Downtown,Delivery,Main,Grilled Chicken Plate,4,11.0,44.0,49.0,3.0
+R10910,2025-04-25,14,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,
+R10911,2025-04-25,18,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10912,2025-04-25,19,Downtown,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R10913,2025-04-25,19,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,3.0
+R10914,2025-04-25,20,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R10915,2025-04-25,21,Downtown,Dine-in,Dessert,Kunafa,3,4.5,13.5,,4.0
+R10916,2025-04-26,11,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,
+R10917,2025-04-26,11,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10918,2025-04-26,12,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10919,2025-04-26,13,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,39.0,3.0
+R10920,2025-04-26,13,Mall,Dine-in,Main,Mixed Grill,3,16.0,48.0,,4.0
+R10921,2025-04-26,14,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R10922,2025-04-26,19,Mall,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R10923,2025-04-26,19,Mall,Dine-in,Sides,Fattoush,3,4.0,12.0,,
+R10924,2025-04-26,20,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10925,2025-04-26,20,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R10926,2025-04-26,20,University,Takeaway,Sides,Fattoush,2,4.0,8.0,,5.0
+R10927,2025-04-26,20,University,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10928,2025-04-26,21,Downtown,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R10929,2025-04-26,21,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R10930,2025-04-26,22,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,5.0
+R10931,2025-04-27,12,Downtown,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,
+R10932,2025-04-27,13,Downtown,Delivery,Drinks,Coffee,2,2.0,4.0,18.0,4.0
+R10933,2025-04-27,14,University,Takeaway,Sides,Hummus,2,3.5,7.0,,5.0
+R10934,2025-04-27,14,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R10935,2025-04-27,15,Mall,Delivery,Dessert,Ice Cream,1,3.0,3.0,49.0,3.0
+R10936,2025-04-27,19,Downtown,Dine-in,Sides,Hummus,5,3.5,17.5,,4.0
+R10937,2025-04-27,19,University,Delivery,Drinks,Coffee,2,2.0,4.0,39.0,4.0
+R10938,2025-04-28,11,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10939,2025-04-28,12,Mall,Dine-in,Sides,Hummus,3,3.5,10.5,,5.0
+R10940,2025-04-28,14,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R10941,2025-04-28,16,University,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,4.0
+R10942,2025-04-28,18,Downtown,Delivery,Sides,Fattoush,2,4.0,8.0,22.0,4.0
+R10943,2025-04-28,19,Downtown,Takeaway,Main,Mixed Grill,2,16.0,32.0,,
+R10944,2025-04-28,21,Mall,Delivery,Main,Mixed Grill,3,16.0,48.0,44.0,4.0
+R10945,2025-04-29,14,Mall,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,3.0
+R10946,2025-04-29,20,Downtown,Dine-in,Dessert,Kunafa,2,4.5,9.0,,3.0
+R10947,2025-04-29,22,University,Takeaway,Sides,Hummus,2,3.5,7.0,,3.0
+R10948,2025-04-29,23,University,Delivery,Main,Beef Burger,3,8.0,24.0,36.0,3.0
+R10949,2025-04-30,14,Mall,Delivery,Sides,Hummus,1,3.5,3.5,52.0,2.0
+R10950,2025-04-30,15,Mall,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R10951,2025-04-30,15,Downtown,Dine-in,Sides,Fattoush,5,4.0,20.0,,4.0
+R10952,2025-04-30,17,Downtown,Delivery,Drinks,Coffee,2,2.0,4.0,37.0,4.0
+R10953,2025-04-30,18,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10954,2025-04-30,19,Mall,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,44.0,3.0
+R10955,2025-04-30,19,Mall,Delivery,Main,Falafel Wrap,1,4.5,4.5,57.0,2.0
+R10956,2025-04-30,20,Mall,Delivery,Main,Grilled Chicken Plate,5,11.0,55.0,36.0,3.0
+R10957,2025-04-30,20,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R10958,2025-04-30,21,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,4.0
+R10959,2025-04-30,22,University,Delivery,Sides,Fattoush,2,4.0,8.0,35.0,4.0
+R10960,2025-05-01,10,Mall,Dine-in,Dessert,Ice Cream,6,3.0,18.0,,3.0
+R10961,2025-05-01,12,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,22.0,
+R10962,2025-05-01,13,University,Delivery,Main,Mixed Grill,1,16.0,16.0,30.0,5.0
+R10963,2025-05-01,13,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R10964,2025-05-01,14,Downtown,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R10965,2025-05-01,14,Mall,Dine-in,Main,Grilled Chicken Plate,4,11.0,44.0,,4.0
+R10966,2025-05-01,14,Mall,Delivery,Main,Mixed Grill,1,16.0,16.0,42.0,3.0
+R10967,2025-05-01,18,Mall,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R10968,2025-05-01,18,University,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R10969,2025-05-01,20,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10970,2025-05-01,20,Mall,Dine-in,Dessert,Kunafa,4,4.5,18.0,,4.0
+R10971,2025-05-01,21,Downtown,Delivery,Dessert,Ice Cream,3,3.0,9.0,48.0,2.0
+R10972,2025-05-02,13,Mall,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R10973,2025-05-02,13,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R10974,2025-05-02,15,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,
+R10975,2025-05-02,19,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R10976,2025-05-02,19,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,67.0,2.0
+R10977,2025-05-02,22,Mall,Dine-in,Main,Mixed Grill,6,16.0,96.0,,5.0
+R10978,2025-05-02,23,University,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R10979,2025-05-03,11,University,Takeaway,Drinks,Coffee,3,2.0,6.0,,4.0
+R10979,2025-05-03,11,University,Takeaway,Drinks,Coffee,3,2.0,6.0,,4.0
+R10980,2025-05-03,11,University,Dine-in,Sides,Fattoush,3,4.0,12.0,,5.0
+R10981,2025-05-03,12,Mall,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R10982,2025-05-03,13,Mall,Delivery,Main,Chicken Shawarma,3,6.5,19.5,34.0,
+R10983,2025-05-03,16,University,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R10984,2025-05-03,17,Downtown,Delivery,Main,Mixed Grill,2,16.0,32.0,31.0,4.0
+R10985,2025-05-03,18,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,
+R10985,2025-05-03,18,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,
+R10986,2025-05-03,20,Mall,Delivery,Dessert,Kunafa,2,4.5,9.0,43.0,3.0
+R10987,2025-05-03,21,Downtown,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,39.0,3.0
+R10988,2025-05-04,12,University,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,34.0,4.0
+R10989,2025-05-04,13,Downtown,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R10990,2025-05-04,13,Mall,Delivery,Main,Mixed Grill,1,16.0,16.0,47.0,4.0
+R10991,2025-05-04,14,University,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R10992,2025-05-04,15,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,2.0
+R10993,2025-05-04,15,Mall,Dine-in,Sides,Fries,3,2.5,7.5,,4.0
+R10994,2025-05-04,16,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10995,2025-05-04,20,Downtown,Takeaway,Main,Beef Burger,4,8.0,32.0,,5.0
+R10996,2025-05-04,21,University,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R10997,2025-05-04,21,University,Delivery,Sides,Fries,2,2.5,5.0,40.0,4.0
+R10998,2025-05-04,22,Downtown,Delivery,Drinks,Coffee,4,2.0,8.0,37.0,4.0
+R10999,2025-05-05,12,Mall,Dine-in,Dessert,Kunafa,3,4.5,13.5,,4.0
+R11000,2025-05-05,13,University,Takeaway,Sides,Fries,1,2.5,2.5,,5.0
+R11001,2025-05-05,14,UNIVERSITY,Delivery,Sides,Hummus,2,3.5,7.0,39.0,3.0
+R11002,2025-05-05,18,Downtown,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R11003,2025-05-05,20,University,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R11004,2025-05-05,20,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R11005,2025-05-05,21,Mall,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R11006,2025-05-05,21,University,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R11007,2025-05-05,22,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11008,2025-05-06,16,Downtown,Delivery,Main,Mixed Grill,3,16.0,48.0,49.0,2.0
+R11009,2025-05-06,19,Mall,Takeaway,Drinks,Coffee,2,2.0,4.0,,3.0
+R11010,2025-05-06,20,Downtown,Takeaway,Main,Beef Burger,4,8.0,32.0,,4.0
+R11011,2025-05-06,20,Mall,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11012,2025-05-06,22,DOWNTOWN,Delivery,Main,Chicken Shawarma,1,6.5,6.5,45.0,2.0
+R11013,2025-05-06,22,Mall,Delivery,Drinks,Soft Drink,2,1.5,3.0,27.0,4.0
+R11014,2025-05-07,13,Downtown,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11015,2025-05-07,13,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,
+R11016,2025-05-07,13,Downtown,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R11017,2025-05-07,14,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R11018,2025-05-07,15,Mall,Delivery,Main,Chicken Shawarma,1,6.5,6.5,18.0,4.0
+R11019,2025-05-07,17,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R11020,2025-05-07,17,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,27.0,4.0
+R11021,2025-05-07,19,Downtown,Delivery,Main,Beef Burger,3,8.0,24.0,44.0,
+R11022,2025-05-07,20,Mall,Delivery,Sides,Fattoush,2,4.0,8.0,24.0,4.0
+R11022,2025-05-07,20,Mall,Delivery,Sides,Fattoush,2,4.0,8.0,24.0,4.0
+R11023,2025-05-08,11,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11024,2025-05-08,13,University,Delivery,Main,Falafel Wrap,2,4.5,9.0,33.0,
+R11025,2025-05-08,13,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R11026,2025-05-08,13,Downtown,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11027,2025-05-08,17,Mall,Takeaway,Sides,Fries,2,2.5,5.0,,4.0
+R11028,2025-05-08,20,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,3.0
+R11029,2025-05-09,12,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R11030,2025-05-09,13,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11031,2025-05-09,15,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11032,2025-05-09,16,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11033,2025-05-09,16,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R11034,2025-05-09,17,University,Delivery,Main,Falafel Wrap,4,4.5,18.0,35.0,4.0
+R11035,2025-05-09,19,Downtown,Dine-in,Main,Chicken Shawarma,5,6.5,32.5,,5.0
+R11036,2025-05-09,19,University,Takeaway,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R11037,2025-05-09,20,Mall,Delivery,Main,Chicken Shawarma,5,6.5,32.5,46.0,3.0
+R11038,2025-05-09,20,University,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R11039,2025-05-09,21,Downtown,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,5.0
+R11040,2025-05-09,21,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11041,2025-05-09,22,Mall,Takeaway,Main,Grilled Chicken Plate,5,11.0,55.0,,4.0
+R11042,2025-05-10,12,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,
+R11043,2025-05-10,12,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11044,2025-05-10,13,University,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R11045,2025-05-10,14,University,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R11046,2025-05-10,17,Downtown,Dine-in,Sides,Fattoush,2,4.0,8.0,,3.0
+R11047,2025-05-10,17,University,Dine-in,Dessert,Kunafa,2,4.5,9.0,,4.0
+R11048,2025-05-10,19,University,Takeaway,Main,Beef Burger,2,8.0,16.0,,5.0
+R11049,2025-05-10,19,Mall,Takeaway,Main,Mixed Grill,3,16.0,48.0,,3.0
+R11050,2025-05-10,20,Mall,Dine-in,Drinks,Fresh Juice,6,3.0,18.0,,5.0
+R11051,2025-05-10,20,Mall,Takeaway,Main,Mixed Grill,4,16.0,64.0,,5.0
+R11052,2025-05-10,20,Downtown,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11053,2025-05-10,20,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11054,2025-05-10,21,Mall,Takeaway,Main,Mixed Grill,5,16.0,80.0,,3.0
+R11055,2025-05-10,21,Mall,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R11056,2025-05-10,21,University,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11057,2025-05-11,14,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11058,2025-05-11,15,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11059,2025-05-11,19,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11060,2025-05-11,19,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11061,2025-05-11,21,University,Takeaway,Drinks,Coffee,3,2.0,6.0,,3.0
+R11062,2025-05-12,12,Mall,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11063,2025-05-12,12,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11064,2025-05-12,12,Downtown,Delivery,Main,Beef Burger,3,8.0,24.0,43.0,4.0
+R11065,2025-05-12,13,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11066,2025-05-12,13,Downtown,Takeaway,Main,Chicken Shawarma,4,6.5,26.0,,5.0
+R11067,2025-05-12,20,Mall,Dine-in,Main,Beef Burger,5,8.0,40.0,,4.0
+R11068,2025-05-12,20,Mall,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11069,2025-05-12,23,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11070,2025-05-13,13,Mall,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,3.0
+R11071,2025-05-13,15,Downtown,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R11072,2025-05-13,17,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11073,2025-05-13,20,University,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R11074,2025-05-13,20,Downtown,Delivery,Main,Falafel Wrap,3,4.5,13.5,44.0,3.0
+R11075,2025-05-13,20,University,Delivery,Drinks,Fresh Juice,3,3.0,9.0,44.0,3.0
+R11076,2025-05-13,21,Mall,Delivery,Dessert,Ice Cream,4,3.0,12.0,35.0,4.0
+R11077,2025-05-14,13,Downtown,Takeaway,Main,Grilled Chicken Plate,6,11.0,66.0,,5.0
+R11078,2025-05-14,15,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11079,2025-05-14,23,Mall,Dine-in,Drinks,Fresh Juice,6,3.0,18.0,,4.0
+R11080,2025-05-15,12,Downtown,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,3.0
+R11081,2025-05-15,15,University,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11082,2025-05-15,17,Mall,Delivery,Drinks,Soft Drink,3,1.5,4.5,41.0,4.0
+R11083,2025-05-15,19,University,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,46.0,4.0
+R11084,2025-05-15,19,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11085,2025-05-15,20,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R11086,2025-05-15,20,University,Takeaway,Main,Beef Burger,3,8.0,24.0,,4.0
+R11087,2025-05-15,21,University,Delivery,Main,Beef Burger,2,8.0,16.0,57.0,2.0
+R11088,2025-05-16,11,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R11089,2025-05-16,11,University,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R11090,2025-05-16,11,Mall,Delivery,Main,Beef Burger,2,8.0,16.0,40.0,2.0
+R11091,2025-05-16,13,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,3.0
+R11092,2025-05-16,13,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,5.0
+R11093,2025-05-16,14,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11094,2025-05-16,14,Mall,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11095,2025-05-16,16,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R11096,2025-05-16,17, mall,Dine-in,Drinks,Soft Drink,4,1.5,6.0,,5.0
+R11097,2025-05-16,19,Mall,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R11098,2025-05-16,19,Downtown,Takeaway,Main,Beef Burger,3,8.0,24.0,,5.0
+R11099,2025-05-16,20,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R11100,2025-05-16,20,University,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,
+R11101,2025-05-16,23,Mall,Delivery,Main,Mixed Grill,2,16.0,32.0,45.0,
+R11102,2025-05-16,23,Mall,Takeaway,Dessert,Kunafa,1,4.5,4.5,,5.0
+R11103,2025-05-17,12,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,3.0
+R11104,2025-05-17,12,Downtown,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R11105,2025-05-17,12,Downtown,Delivery,Main,Falafel Wrap,3,4.5,13.5,41.0,4.0
+R11106,2025-05-17,13,University,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R11107,2025-05-17,13,University,Takeaway,Dessert,Kunafa,1,4.5,4.5,,3.0
+R11108,2025-05-17,13,Downtown,Dine-in,Sides,Fattoush,3,4.0,12.0,,5.0
+R11109,2025-05-17,13,Mall,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R11110,2025-05-17,13,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,3.0
+R11111,2025-05-17,13,Mall,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,3.0
+R11112,2025-05-17,15,Downtown,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,31.0,4.0
+R11113,2025-05-17,17,Downtown,Dine-in,Main,Falafel Wrap,4,4.5,18.0,,
+R11114,2025-05-17,19,Mall,Dine-in,Drinks,Coffee,4,2.0,8.0,,5.0
+R11115,2025-05-17,19,Downtown,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R11116,2025-05-17,19,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R11117,2025-05-17,20,Downtown,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,22.0,4.0
+R11118,2025-05-17,20,Downtown,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,3.0
+R11119,2025-05-17,20,Mall,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11120,2025-05-18,13,Downtown,Dine-in,Main,Mixed Grill,6,16.0,96.0,,5.0
+R11121,2025-05-18,18,University,Dine-in,Sides,Fries,1,2.5,2.5,,
+R11122,2025-05-18,20,Mall,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11123,2025-05-18,21,Mall,Takeaway,Main,Mixed Grill,3,16.0,48.0,,4.0
+R11124,2025-05-18,21,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11125,2025-05-19,11,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R11126,2025-05-19,13,University,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R11127,2025-05-19,18,Mall,Takeaway,Main,Beef Burger,1,8.0,8.0,,3.0
+R11128,2025-05-19,20,Mall,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,5.0
+R11129,2025-05-19,20,Mall,Dine-in,Drinks,Coffee,3,2.0,6.0,,4.0
+R11130,2025-05-19,20,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,33.0,4.0
+R11131,2025-05-19,21,Mall,Dine-in,Main,Mixed Grill,3,16.0,48.0,,2.0
+R11132,2025-05-20,14,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11133,2025-05-20,15,University,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R11133,2025-05-20,15,University,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R11134,2025-05-20,17,University,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R11135,2025-05-20,21,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11136,2025-05-20,21,Downtown,Delivery,Main,Chicken Shawarma,4,6.5,26.0,39.0,4.0
+R11137,2025-05-20,23,Mall,Takeaway,Sides,Fries,1,2.5,2.5,,5.0
+R11138,2025-05-21,12,Mall,Dine-in,Sides,Hummus,4,3.5,14.0,,4.0
+R11139,2025-05-21,13,Downtown,Delivery,Main,Mixed Grill,4,16.0,64.0,42.0,3.0
+R11140,2025-05-21,13,Downtown,Dine-in,Drinks,Soft Drink,4,1.5,6.0,,4.0
+R11141,2025-05-21,13,Downtown,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R11142,2025-05-21,13,Downtown,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R11143,2025-05-21,13,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,61.0,2.0
+R11144,2025-05-21,13,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R11145,2025-05-21,13,University,Takeaway,Main,Mixed Grill,2,16.0,32.0,,4.0
+R11146,2025-05-21,14,University,Delivery,Main,Falafel Wrap,1,4.5,4.5,27.0,3.0
+R11147,2025-05-21,15,Mall,Dine-in,Dessert,Kunafa,2,4.5,9.0,,4.0
+R11148,2025-05-21,18,University,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,5.0
+R11149,2025-05-21,18,Downtown,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R11150,2025-05-21,22,Downtown,Delivery,Dessert,Ice Cream,3,3.0,9.0,21.0,4.0
+R11150,2025-05-21,22,Downtown,Delivery,Dessert,Ice Cream,3,3.0,9.0,21.0,4.0
+R11151,2025-05-21,23,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11152,2025-05-22,11,University,Delivery,Main,Beef Burger,1,8.0,8.0,55.0,3.0
+R11153,2025-05-22,11,Downtown,Dine-in,Dessert,Kunafa,2,4.5,9.0,,4.0
+R11154,2025-05-22,12,University,Delivery,Main,Chicken Shawarma,2,6.5,13.0,27.0,4.0
+R11155,2025-05-22,14,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11156,2025-05-22,18,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,5.0
+R11157,2025-05-22,20,University,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,48.0,4.0
+R11158,2025-05-23,12,Mall,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R11159,2025-05-23,12,Mall,Delivery,Main,Chicken Shawarma,2,6.5,13.0,30.0,4.0
+R11159,2025-05-23,12,Mall,Delivery,Main,Chicken Shawarma,2,6.5,13.0,30.0,4.0
+R11160,2025-05-23,13,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,3.0
+R11161,2025-05-23,14,Downtown,Dine-in,Main,Mixed Grill,4,16.0,64.0,,4.0
+R11162,2025-05-23,14,Mall,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R11163,2025-05-23,14,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R11164,2025-05-23,14,University,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R11165,2025-05-23,19,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,28.0,3.0
+R11166,2025-05-23,19,University,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11167,2025-05-23,20,Downtown,Delivery,Main,Beef Burger,4,8.0,32.0,70.0,2.0
+R11168,2025-05-23,20,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R11169,2025-05-23,21,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R11170,2025-05-24,12,Downtown,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11171,2025-05-24,13,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R11172,2025-05-24,13,University,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R11173,2025-05-24,15,University,Delivery,Dessert,Ice Cream,2,3.0,6.0,21.0,5.0
+R11174,2025-05-24,18,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,44.0,3.0
+R11175,2025-05-24,18,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11176,2025-05-24,19,Mall,Dine-in,Sides,Fries,6,2.5,15.0,,4.0
+R11177,2025-05-24,20,Mall,Delivery,Main,Grilled Chicken Plate,3,11.0,33.0,41.0,4.0
+R11178,2025-05-24,20,Mall,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R11179,2025-05-24,20,Mall,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R11180,2025-05-24,20,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R11181,2025-05-24,21,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R11182,2025-05-25,13,Downtown,Dine-in,Main,Chicken Shawarma,5,6.5,32.5,,5.0
+R11183,2025-05-25,16,Mall,Delivery,Main,Grilled Chicken Plate,5,11.0,55.0,39.0,4.0
+R11184,2025-05-25,20, downtown,Delivery,Sides,Fries,2,2.5,5.0,50.0,
+R11185,2025-05-25,20,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,
+R11186,2025-05-25,21,Mall,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R11187,2025-05-25,21,Downtown,Delivery,Dessert,Ice Cream,1,3.0,3.0,24.0,4.0
+R11188,2025-05-26,13,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R11189,2025-05-26,14,University,Takeaway,Sides,Fries,2,2.5,5.0,,5.0
+R11190,2025-05-26,19,Mall,Takeaway,Dessert,Kunafa,1,4.5,4.5,,4.0
+R11191,2025-05-26,20,Downtown,Delivery,Main,Falafel Wrap,4,4.5,18.0,12.0,
+R11192,2025-05-26,22,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11193,2025-05-27,13,Downtown,Takeaway,Dessert,Kunafa,1,4.5,4.5,,4.0
+R11194,2025-05-27,13,Mall,Delivery,Drinks,Soft Drink,3,1.5,4.5,30.0,5.0
+R11195,2025-05-27,13,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,3.0
+R11196,2025-05-27,14,Downtown,Delivery,Main,Beef Burger,4,8.0,32.0,26.0,4.0
+R11197,2025-05-27,14,Downtown,Delivery,Main,Grilled Chicken Plate,6,11.0,66.0,38.0,4.0
+R11198,2025-05-27,16,University,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,3.0
+R11199,2025-05-27,19,Downtown,Delivery,Sides,Fries,3,2.5,7.5,17.0,
+R11200,2025-05-27,19,Mall,Dine-in,Main,Mixed Grill,4,16.0,64.0,,4.0
+R11201,2025-05-27,22,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R11202,2025-05-27,22,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R11203,2025-05-28,13,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,5.0
+R11204,2025-05-28,15,University,Takeaway,Drinks,Coffee,2,2.0,4.0,,5.0
+R11205,2025-05-28,20,Mall,Dine-in,Drinks,Coffee,4,2.0,8.0,,5.0
+R11206,2025-05-28,20,Downtown,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R11207,2025-05-28,21,Mall,Takeaway,Main,Mixed Grill,1,16.0,16.0,,3.0
+R11208,2025-05-29,10,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,3.0
+R11209,2025-05-29,11,Downtown,Delivery,Sides,Fattoush,3,4.0,12.0,37.0,3.0
+R11210,2025-05-29,13,University,Delivery,Drinks,Soft Drink,2,1.5,3.0,38.0,4.0
+R11211,2025-05-29,14,Downtown,Delivery,Sides,Fries,2,2.5,5.0,33.0,4.0
+R11212,2025-05-29,14,University,Delivery,Main,Mixed Grill,3,16.0,48.0,40.0,2.0
+R11213,2025-05-29,15,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11214,2025-05-29,15,Mall,Dine-in,Dessert,Ice Cream,6,3.0,18.0,,4.0
+R11215,2025-05-29,19,Mall,Delivery,Main,Falafel Wrap,2,4.5,9.0,74.0,2.0
+R11216,2025-05-29,21,University,Delivery,Dessert,Kunafa,1,4.5,4.5,30.0,5.0
+R11217,2025-05-30,13,Downtown,Delivery,Main,Chicken Shawarma,3,6.5,19.5,43.0,4.0
+R11218,2025-05-30,13,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,
+R11219,2025-05-30,13,University,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,5.0
+R11220,2025-05-30,14,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R11221,2025-05-30,14,Mall,Delivery,Main,Mixed Grill,1,16.0,16.0,34.0,4.0
+R11222,2025-05-30,14,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,
+R11223,2025-05-30,15,University,Takeaway,Drinks,Coffee,3,2.0,6.0,,5.0
+R11224,2025-05-30,18,Downtown,Dine-in,Main,Mixed Grill,3,16.0,48.0,,
+R11225,2025-05-30,19,Mall,Delivery,Dessert,Ice Cream,2,3.0,6.0,32.0,4.0
+R11226,2025-05-30,20,Downtown,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,3.0
+R11227,2025-05-30,21,Downtown,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11228,2025-05-30,22,University,Delivery,Main,Chicken Shawarma,1,6.5,6.5,37.0,3.0
+R11229,2025-05-31,12,Mall,Dine-in,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R11230,2025-05-31,13,University,Delivery,Dessert,Ice Cream,1,3.0,3.0,23.0,4.0
+R11231,2025-05-31,14,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11232,2025-05-31,15,Mall,Dine-in,Main,Mixed Grill,5,16.0,80.0,,4.0
+R11233,2025-05-31,18,University,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,3.0
+R11234,2025-05-31,18,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R11235,2025-05-31,19,University,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R11236,2025-05-31,20,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,37.0,3.0
+R11237,2025-05-31,21,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R11238,2025-06-01,13,Downtown,Dine-in,Sides,Fattoush,5,4.0,20.0,,5.0
+R11239,2025-06-01,13,University,Takeaway,Main,Beef Burger,1,8.0,8.0,,4.0
+R11240,2025-06-01,13,University,Takeaway,Dessert,Kunafa,1,4.5,4.5,,5.0
+R11241,2025-06-01,14,University,Takeaway,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11242,2025-06-01,16,Downtown,Dine-in,Main,Falafel Wrap,5,4.5,22.5,,4.0
+R11243,2025-06-01,19,University,Delivery,Sides,Hummus,2,3.5,7.0,40.0,3.0
+R11244,2025-06-01,21,University,Dine-in,Drinks,Coffee,1,2.0,2.0,,
+R11245,2025-06-02,14,Downtown,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,
+R11246,2025-06-02,17,Mall,Takeaway,Drinks,Coffee,5,2.0,10.0,,4.0
+R11247,2025-06-02,18,Downtown,Delivery,Main,Mixed Grill,5,16.0,80.0,19.0,
+R11248,2025-06-02,18,Downtown,Dine-in,Main,Beef Burger,4,8.0,32.0,,4.0
+R11249,2025-06-02,19,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R11250,2025-06-02,19,Downtown,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R11251,2025-06-02,20,Downtown,Dine-in,Drinks,Soft Drink,4,1.5,6.0,,
+R11252,2025-06-02,20,University,Takeaway,Sides,Fries,1,2.5,2.5,,5.0
+R11253,2025-06-02,23,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R11254,2025-06-03,13,University,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R11255,2025-06-03,13,Mall,Dine-in,Main,Grilled Chicken Plate,6,11.0,66.0,,
+R11256,2025-06-03,13,Mall,Takeaway,Sides,Hummus,2,3.5,7.0,,4.0
+R11257,2025-06-03,18,University,Takeaway,Dessert,Kunafa,1,4.5,4.5,,5.0
+R11258,2025-06-03,19,Mall,Dine-in,Sides,Fries,3,2.5,7.5,,3.0
+R11259,2025-06-03,19,Mall,Takeaway,Sides,Fattoush,4,4.0,16.0,,4.0
+R11260,2025-06-03,19,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R11261,2025-06-03,21,Mall,Delivery,Main,Mixed Grill,3,16.0,48.0,39.0,4.0
+R11262,2025-06-04,13,University,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11263,2025-06-04,14,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11264,2025-06-04,14,University,Dine-in,Main,Beef Burger,3,8.0,24.0,,5.0
+R11265,2025-06-04,20,Mall,Dine-in,Dessert,Kunafa,5,4.5,22.5,,5.0
+R11266,2025-06-04,22,Downtown,Dine-in,Main,Mixed Grill,4,16.0,64.0,,4.0
+R11267,2025-06-05,14,Downtown,Delivery,Drinks,Soft Drink,1,1.5,1.5,49.0,3.0
+R11268,2025-06-05,14,University,Dine-in,Main,Beef Burger,2,8.0,16.0,,3.0
+R11269,2025-06-05,16,Downtown,Delivery,Dessert,Kunafa,3,4.5,13.5,15.0,3.0
+R11270,2025-06-05,19,University,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,5.0
+R11271,2025-06-05,20,Mall,Takeaway,Sides,Hummus,1,3.5,3.5,,4.0
+R11272,2025-06-05,20,University,Delivery,Main,Chicken Shawarma,4,6.5,26.0,40.0,3.0
+R11273,2025-06-05,21,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R11274,2025-06-05,21,Downtown,Dine-in,Sides,Fries,4,2.5,10.0,,4.0
+R11275,2025-06-06,11,Mall,Delivery,Sides,Fattoush,4,4.0,16.0,35.0,4.0
+R11276,2025-06-06,12,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11277,2025-06-06,13,University,Delivery,Main,Beef Burger,1,8.0,8.0,24.0,4.0
+R11278,2025-06-06,17,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,44.0,3.0
+R11279,2025-06-06,19,Mall,Takeaway,Main,Mixed Grill,5,16.0,80.0,,5.0
+R11280,2025-06-06,20,Mall,Takeaway,Main,Beef Burger,4,8.0,32.0,,
+R11281,2025-06-06,20,Downtown,Dine-in,Main,Falafel Wrap,4,4.5,18.0,,5.0
+R11282,2025-06-06,20,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R11283,2025-06-06,20,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,4.0
+R11284,2025-06-06,21,Downtown,Takeaway,Drinks,Fresh Juice,3,3.0,9.0,,4.0
+R11285,2025-06-07,10,Mall,Takeaway,Main,Chicken Shawarma,4,6.5,26.0,,5.0
+R11286,2025-06-07,14,Downtown,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,3.0
+R11287,2025-06-07,19,Downtown,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11288,2025-06-07,20,Mall,Takeaway,Main,Mixed Grill,2,16.0,32.0,,5.0
+R11289,2025-06-07,21,Downtown,Takeaway,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11290,2025-06-08,13,Mall,Delivery,Drinks,Fresh Juice,1,3.0,3.0,20.0,5.0
+R11291,2025-06-08,15,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R11292,2025-06-08,19,Downtown,Delivery,Dessert,Ice Cream,4,3.0,12.0,35.0,4.0
+R11293,2025-06-08,20,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,5.0
+R11294,2025-06-08,21,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11295,2025-06-08,21,University,Delivery,Dessert,Ice Cream,1,3.0,3.0,38.0,5.0
+R11296,2025-06-09,12,Downtown,Dine-in,Drinks,Coffee,2,2.0,4.0,,3.0
+R11297,2025-06-09,13,Downtown,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11298,2025-06-09,13,University,Takeaway,Main,Beef Burger,2,8.0,16.0,,4.0
+R11299,2025-06-09,13,Downtown,Delivery,Dessert,Ice Cream,3,3.0,9.0,22.0,
+R11300,2025-06-09,14,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,
+R11301,2025-06-09,14,Mall,Dine-in,Dessert,Kunafa,3,4.5,13.5,,4.0
+R11302,2025-06-09,14,University,Takeaway,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R11303,2025-06-09,14,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R11304,2025-06-09,19,Mall,Delivery,Sides,Fries,6,2.5,15.0,40.0,4.0
+R11305,2025-06-09,19,Mall,Dine-in,Main,Beef Burger,5,8.0,40.0,,5.0
+R11306,2025-06-09,20,Mall,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R11307,2025-06-09,20,Mall,Delivery,Main,Beef Burger,2,8.0,16.0,56.0,2.0
+R11308,2025-06-09,20,Mall,Dine-in,Main,Grilled Chicken Plate,2,11.0,22.0,,4.0
+R11309,2025-06-09,21,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R11310,2025-06-09,21,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R11311,2025-06-09,23,University,Takeaway,Sides,Fries,2,2.5,5.0,,5.0
+R11312,2025-06-10,10,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R11313,2025-06-10,10,University,Delivery,Main,Chicken Shawarma,2,6.5,13.0,33.0,3.0
+R11314,2025-06-10,12,Downtown,Delivery,Dessert,Ice Cream,2,3.0,6.0,49.0,3.0
+R11315,2025-06-10,18,University,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R11316,2025-06-10,19,University,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R11317,2025-06-10,19,Downtown,Dine-in,Main,Mixed Grill,3,16.0,48.0,,
+R11318,2025-06-10,19,University,Delivery,Dessert,Kunafa,1,4.5,4.5,48.0,2.0
+R11319,2025-06-10,20,UNIVERSITY,Takeaway,Main,Chicken Shawarma,1,6.5,6.5,,4.0
+R11320,2025-06-10,20,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,3.0
+R11321,2025-06-10,21,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11322,2025-06-11,13,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,
+R11323,2025-06-11,14,Downtown,Delivery,Drinks,Fresh Juice,2,3.0,6.0,30.0,4.0
+R11324,2025-06-11,14,Downtown,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,4.0
+R11325,2025-06-11,15,Downtown,Takeaway,Drinks,Coffee,2,2.0,4.0,,4.0
+R11326,2025-06-11,16,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11327,2025-06-11,21,Mall,Delivery,Sides,Hummus,1,3.5,3.5,44.0,4.0
+R11328,2025-06-11,21,University,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R11329,2025-06-12,12,University,Delivery,Dessert,Kunafa,1,4.5,4.5,12.0,4.0
+R11330,2025-06-12,13,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11331,2025-06-12,13,University,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R11332,2025-06-12,13,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R11333,2025-06-12,13,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,5.0
+R11334,2025-06-12,14,Downtown,Takeaway,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R11335,2025-06-12,19,Downtown,Dine-in,Main,Chicken Shawarma,4,6.5,26.0,,4.0
+R11336,2025-06-12,20,Downtown,Dine-in,Drinks,Coffee,2,2.0,4.0,,5.0
+R11337,2025-06-13,11,Mall,Dine-in,Dessert,Ice Cream,3,3.0,9.0,,4.0
+R11338,2025-06-13,13,Mall,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,
+R11339,2025-06-13,14,Mall,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R11340,2025-06-13,16,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R11341,2025-06-13,16,Mall,Delivery,Drinks,Soft Drink,2,1.5,3.0,45.0,
+R11342,2025-06-13,19,University,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R11343,2025-06-13,19,Mall,Takeaway,Main,Mixed Grill,3,16.0,48.0,,3.0
+R11344,2025-06-13,20,University,Delivery,Sides,Fattoush,4,4.0,16.0,37.0,4.0
+R11345,2025-06-13,21,Mall,Delivery,Sides,Fattoush,1,4.0,4.0,50.0,4.0
+R11346,2025-06-13,22,Mall,Delivery,Drinks,Fresh Juice,2,3.0,6.0,39.0,4.0
+R11347,2025-06-14,13,University,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,4.0
+R11348,2025-06-14,13,Downtown,Delivery,Drinks,Fresh Juice,1,3.0,3.0,41.0,3.0
+R11349,2025-06-14,14,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11350,2025-06-14,14,Mall,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11351,2025-06-14,14,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,4.0
+R11352,2025-06-14,14,Mall,Dine-in,Main,Beef Burger,4,8.0,32.0,,
+R11353,2025-06-14,14,Mall,Takeaway,Main,Beef Burger,2,8.0,16.0,,
+R11354,2025-06-14,18,Downtown,Delivery,Main,Chicken Shawarma,2,6.5,13.0,45.0,3.0
+R11355,2025-06-14,19,Mall,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R11356,2025-06-14,20,Downtown,Dine-in,Main,Mixed Grill,1,16.0,16.0,,3.0
+R11357,2025-06-14,20,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,4.0
+R11358,2025-06-14,20,Mall,Dine-in,Main,Mixed Grill,3,16.0,48.0,,5.0
+R11359,2025-06-14,21,Downtown,Dine-in,Main,Grilled Chicken Plate,5,11.0,55.0,,5.0
+R11360,2025-06-15,12,Mall,Dine-in,Main,Mixed Grill,2,16.0,32.0,,3.0
+R11361,2025-06-15,12,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11362,2025-06-15,16,Downtown,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,5.0
+R11363,2025-06-15,16,Mall,Dine-in,Main,Beef Burger,3,8.0,24.0,,4.0
+R11364,2025-06-15,17,Mall,Dine-in,Sides,Fries,2,2.5,5.0,,5.0
+R11365,2025-06-15,21,Mall,Takeaway,Sides,Fattoush,1,4.0,4.0,,5.0
+R11366,2025-06-15,22,Downtown,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11367,2025-06-16,13,University,Dine-in,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R11368,2025-06-16,13,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,4.0
+R11369,2025-06-16,16,Downtown,Dine-in,Main,Falafel Wrap,2,4.5,9.0,,4.0
+R11370,2025-06-16,17,Downtown,Delivery,Main,Beef Burger,4,8.0,32.0,42.0,3.0
+R11371,2025-06-16,18,University,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R11372,2025-06-16,18,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R11373,2025-06-16,18,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11374,2025-06-16,20,Downtown,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,5.0
+R11375,2025-06-16,22,Mall,Dine-in,Main,Grilled Chicken Plate,4,11.0,44.0,,4.0
+R11376,2025-06-16,23,Downtown,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R11377,2025-06-17,12,Mall,Takeaway,Main,Beef Burger,2,8.0,16.0,,5.0
+R11378,2025-06-17,12,University,Takeaway,Main,Grilled Chicken Plate,3,11.0,33.0,,4.0
+R11379,2025-06-17,13,Downtown,Delivery,Main,Mixed Grill,7,16.0,112.0,40.0,4.0
+R11380,2025-06-17,14,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,4.0
+R11381,2025-06-17,15,Downtown,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,
+R11382,2025-06-17,19,University,Delivery,Sides,Fries,3,2.5,7.5,26.0,4.0
+R11383,2025-06-17,19,Mall,Dine-in,Main,Mixed Grill,1,16.0,16.0,,
+R11384,2025-06-17,20,University,Delivery,Main,Beef Burger,3,8.0,24.0,50.0,
+R11385,2025-06-17,20,Mall,Dine-in,Main,Chicken Shawarma,1,6.5,6.5,,3.0
+R11386,2025-06-18,12,Mall,Delivery,Drinks,Soft Drink,1,1.5,1.5,41.0,3.0
+R11387,2025-06-18,12,University,Dine-in,Sides,Fattoush,2,4.0,8.0,,
+R11388,2025-06-18,12,University,Takeaway,Main,Grilled Chicken Plate,1,11.0,11.0,,4.0
+R11389,2025-06-18,13,Mall,Dine-in,Drinks,Coffee,2,2.0,4.0,,3.0
+R11390,2025-06-18,18,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R11391,2025-06-18,19,Mall,Delivery,Drinks,Coffee,1,2.0,2.0,43.0,3.0
+R11392,2025-06-18,19,Downtown,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,4.0
+R11393,2025-06-18,19,University,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,4.0
+R11394,2025-06-18,20,Mall,Delivery,Sides,Hummus,2,3.5,7.0,54.0,1.0
+R11395,2025-06-18,22,University,Takeaway,Sides,Fries,1,2.5,2.5,,4.0
+R11396,2025-06-19,14,Mall,Dine-in,Sides,Hummus,5,3.5,17.5,,4.0
+R11397,2025-06-19,15,Mall,Dine-in,Main,Beef Burger,2,8.0,16.0,,
+R11398,2025-06-19,15,Mall,Dine-in,Dessert,Kunafa,3,4.5,13.5,,4.0
+R11399,2025-06-19,18,Mall,Delivery,Sides,Fries,2,2.5,5.0,40.0,
+R11400,2025-06-19,20,Mall,Dine-in,Sides,Fries,3,2.5,7.5,,4.0
+R11401,2025-06-19,20,Mall,Delivery,Sides,Hummus,1,3.5,3.5,41.0,
+R11402,2025-06-19,22,University,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11403,2025-06-20,12,University,Takeaway,Sides,Hummus,1,3.5,3.5,,5.0
+R11404,2025-06-20,12,DOWNTOWN,Dine-in,Main,Grilled Chicken Plate,5,11.0,55.0,,5.0
+R11405,2025-06-20,13,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,41.0,3.0
+R11406,2025-06-20,13,University,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R11407,2025-06-20,14,University,Delivery,Dessert,Ice Cream,1,3.0,3.0,43.0,2.0
+R11408,2025-06-20,14,Mall,Dine-in,Dessert,Kunafa,1,4.5,4.5,,4.0
+R11409,2025-06-20,15,Downtown,Delivery,Main,Beef Burger,2,8.0,16.0,25.0,4.0
+R11410,2025-06-20,20,Downtown,Dine-in,Dessert,Kunafa,6,4.5,27.0,,4.0
+R11411,2025-06-20,20,University,Takeaway,Sides,Hummus,2,3.5,7.0,,5.0
+R11412,2025-06-20,20,Mall,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,4.0
+R11413,2025-06-20,22,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,3.0
+R11414,2025-06-20,22,University,Takeaway,Sides,Fattoush,1,4.0,4.0,,4.0
+R11415,2025-06-20,23,University,Dine-in,Main,Mixed Grill,2,16.0,32.0,,4.0
+R11416,2025-06-21,11,Downtown,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11417,2025-06-21,11,Mall,Dine-in,Main,Chicken Shawarma,3,6.5,19.5,,4.0
+R11418,2025-06-21,11,Mall,Dine-in,Sides,Fattoush,3,4.0,12.0,,5.0
+R11419,2025-06-21,13,Downtown,Dine-in,Drinks,Fresh Juice,1,3.0,3.0,,5.0
+R11420,2025-06-21,14,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,5.0
+R11421,2025-06-21,15,Downtown,Takeaway,Main,Chicken Shawarma,3,6.5,19.5,,
+R11422,2025-06-21,16,Mall,Delivery,Main,Chicken Shawarma,1,6.5,6.5,45.0,4.0
+R11423,2025-06-21,20,Downtown,Delivery,Drinks,Coffee,1,2.0,2.0,37.0,
+R11424,2025-06-21,20,University,Delivery,Drinks,Fresh Juice,2,3.0,6.0,43.0,4.0
+R11425,2025-06-21,20,Mall,Dine-in,Dessert,Kunafa,2,4.5,9.0,,5.0
+R11426,2025-06-21,22,Downtown,Delivery,Main,Grilled Chicken Plate,6,11.0,66.0,23.0,4.0
+R11427,2025-06-21,23,Mall,Delivery,Sides,Fries,5,2.5,12.5,30.0,5.0
+R11428,2025-06-22,10,University,Delivery,Sides,Hummus,1,3.5,3.5,48.0,4.0
+R11429,2025-06-22,13,University,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,5.0
+R11430,2025-06-22,13,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R11431,2025-06-22,14,Downtown,Dine-in,Dessert,Kunafa,3,4.5,13.5,,4.0
+R11432,2025-06-22,14,Downtown,Dine-in,Drinks,Fresh Juice,4,3.0,12.0,,
+R11433,2025-06-22,16,University,Delivery,Dessert,Kunafa,3,4.5,13.5,12.0,4.0
+R11434,2025-06-22,18,Downtown,Takeaway,Dessert,Ice Cream,4,3.0,12.0,,5.0
+R11435,2025-06-22,22,University,Delivery,Dessert,Kunafa,1,4.5,4.5,30.0,4.0
+R11436,2025-06-23,13,Mall,Takeaway,Main,Falafel Wrap,5,4.5,22.5,,5.0
+R11437,2025-06-23,14,University,Delivery,Main,Beef Burger,2,8.0,16.0,48.0,2.0
+R11438,2025-06-23,14,Mall,Dine-in,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R11439,2025-06-23,14,Downtown,Dine-in,Main,Beef Burger,1,8.0,8.0,,4.0
+R11440,2025-06-23,15,Mall,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R11441,2025-06-23,16,Mall,Delivery,Main,Chicken Shawarma,2,6.5,13.0,47.0,3.0
+R11442,2025-06-23,18,Downtown,Takeaway,Drinks,Coffee,2,2.0,4.0,,5.0
+R11443,2025-06-23,19,Mall,Takeaway,Drinks,Coffee,3,2.0,6.0,,4.0
+R11444,2025-06-23,19,Mall,Delivery,Sides,Fattoush,1,4.0,4.0,46.0,2.0
+R11445,2025-06-23,20,University,Delivery,Dessert,Kunafa,1,4.5,4.5,43.0,4.0
+R11446,2025-06-23,22,Mall,Dine-in,Dessert,Ice Cream,2,3.0,6.0,,3.0
+R11447,2025-06-24,11,University,Takeaway,Drinks,Coffee,1,2.0,2.0,,4.0
+R11448,2025-06-24,12,Downtown,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11449,2025-06-24,13,University,Takeaway,Drinks,Soft Drink,2,1.5,3.0,,4.0
+R11450,2025-06-24,17,University,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R11451,2025-06-24,18,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R11452,2025-06-24,20,Mall,Dine-in,Drinks,Coffee,1,2.0,2.0,,5.0
+R11453,2025-06-24,20,Mall,Delivery,Main,Beef Burger,1,8.0,8.0,65.0,
+R11454,2025-06-24,20,Downtown,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11455,2025-06-24,21,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,4.0
+R11456,2025-06-25,11,Downtown,Delivery,Main,Falafel Wrap,2,4.5,9.0,48.0,3.0
+R11457,2025-06-25,12,Mall,Delivery,Main,Grilled Chicken Plate,1,11.0,11.0,24.0,5.0
+R11458,2025-06-25,14,University,Dine-in,Dessert,Ice Cream,1,3.0,3.0,,5.0
+R11459,2025-06-25,15,Downtown,Dine-in,Main,Falafel Wrap,1,4.5,4.5,,5.0
+R11460,2025-06-25,21,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R11461,2025-06-25,21,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11462,2025-06-26,11,University,Takeaway,Main,Falafel Wrap,2,4.5,9.0,,5.0
+R11463,2025-06-26,11,Downtown,Dine-in,Drinks,Fresh Juice,3,3.0,9.0,,
+R11464,2025-06-26,20,Downtown,Dine-in,Sides,Fattoush,1,4.0,4.0,,5.0
+R11465,2025-06-27,13,University,Takeaway,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11466,2025-06-27,13,Downtown,Takeaway,Dessert,Ice Cream,6,3.0,18.0,,3.0
+R11467,2025-06-27,13,University,Delivery,Sides,Fattoush,1,4.0,4.0,45.0,4.0
+R11468,2025-06-27,14,Downtown,Dine-in,Drinks,Coffee,5,2.0,10.0,,5.0
+R11469,2025-06-27,14,Mall,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R11470,2025-06-27,14,Mall,Dine-in,Sides,Fries,1,2.5,2.5,,5.0
+R11471,2025-06-27,14,Downtown,Dine-in,Main,Mixed Grill,2,16.0,32.0,,5.0
+R11472,2025-06-27,18,Mall,Dine-in,Sides,Fattoush,2,4.0,8.0,,5.0
+R11473,2025-06-27,20,Mall,Dine-in,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R11474,2025-06-27,20,University,Delivery,Main,Chicken Shawarma,1,6.5,6.5,21.0,4.0
+R11475,2025-06-27,21,Mall,Takeaway,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R11476,2025-06-27,21,Downtown,Dine-in,Sides,Hummus,2,3.5,7.0,,4.0
+R11477,2025-06-27,22,University,Dine-in,Drinks,Soft Drink,1,1.5,1.5,,4.0
+R11478,2025-06-28,11,Mall,Dine-in,Main,Grilled Chicken Plate,1,11.0,11.0,,5.0
+R11479,2025-06-28,13,Downtown,Delivery,Main,Falafel Wrap,1,4.5,4.5,48.0,4.0
+R11480,2025-06-28,13,Downtown,Takeaway,Main,Mixed Grill,3,16.0,48.0,,4.0
+R11481,2025-06-28,13,Downtown,Delivery,Dessert,Ice Cream,2,3.0,6.0,55.0,2.0
+R11482,2025-06-28,15,Downtown,Takeaway,Main,Falafel Wrap,3,4.5,13.5,,5.0
+R11483,2025-06-28,19,University,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,5.0
+R11484,2025-06-28,20,Mall,Takeaway,Drinks,Soft Drink,3,1.5,4.5,,4.0
+R11485,2025-06-28,23,Downtown,Takeaway,Main,Falafel Wrap,1,4.5,4.5,,4.0
+R11486,2025-06-29,12,Downtown,Delivery,Drinks,Fresh Juice,2,3.0,6.0,52.0,1.0
+R11487,2025-06-29,12,Mall,Delivery,Main,Grilled Chicken Plate,2,11.0,22.0,43.0,3.0
+R11488,2025-06-29,13,University,Takeaway,Drinks,Fresh Juice,2,3.0,6.0,,4.0
+R11489,2025-06-29,15,University,Dine-in,Drinks,Soft Drink,2,1.5,3.0,,5.0
+R11490,2025-06-29,15,University,Dine-in,Sides,Fattoush,1,4.0,4.0,,4.0
+R11491,2025-06-29,16,University,Takeaway,Sides,Hummus,1,3.5,3.5,,
+R11492,2025-06-29,19,Mall,Dine-in,Main,Chicken Shawarma,2,6.5,13.0,,4.0
+R11493,2025-06-29,20,Mall,Dine-in,Main,Grilled Chicken Plate,5,11.0,55.0,,4.0
+R11494,2025-06-30,12,Downtown,Takeaway,Main,Mixed Grill,1,16.0,16.0,,4.0
+R11495,2025-06-30,13,Downtown,Delivery,Dessert,Kunafa,6,4.5,27.0,38.0,4.0
+R11496,2025-06-30,13,University,Takeaway,Dessert,Kunafa,2,4.5,9.0,,4.0
+R11497,2025-06-30,14,Downtown,Delivery,Main,Chicken Shawarma,3,6.5,19.5,54.0,2.0
+R11498,2025-06-30,14,Mall,Dine-in,Sides,Hummus,1,3.5,3.5,,4.0
+R11499,2025-06-30,19,Downtown,Dine-in,Sides,Fries,2,2.5,5.0,,4.0
+R11500,2025-06-30,21,Downtown,Delivery,Main,Falafel Wrap,6,4.5,27.0,55.0,2.0
